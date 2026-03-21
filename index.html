@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html, body {
+      height: 100%;
+      width: 100%;
+    }
+
+    header {
+      background: #1a1a2e;
+      color: white;
+      padding: 12px 20px;
+      font-size: 1.2rem;
+      font-weight: bold;
+      height: 50px;
+    }
+
+    header span { color: #58a6ff; }
+
+    .app {
+      display: flex;
+      width: 100%;
+      height: calc(100% - 50px);
+    }
+
+    .sidebar {
+      width: 260px;
+      flex-shrink: 0;
+      background: #f4f4f4;
+      border-right: 2px solid #ddd;
+      padding: 20px;
+    }
+
+    .sidebar h3 {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      color: #888;
+      margin-bottom: 8px;
+    }
+
+    select {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+
+    #map {
+      flex: 1;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>Lingua<span>Map</span> - Shelby County, TN</header>
+
+  <div class="app">
+    <div class="sidebar">
+      <h3>Filter by Language</h3>
+      <select id="langSelect">
+        <option value="all">All Languages</option>
+        <option value="spanish">Spanish</option>
+        <option value="vietnamese">Vietnamese</option>
+        <option value="arabic">Arabic</option>
+        <option value="chinese">Chinese</option>
+        <option value="french">French / Haitian Creole</option>
+      </select>
+      <p id="infoBox" style="margin-top:16px; font-size:0.85rem; color:#555;">
+        Select a language to explore.
+      </p>
+    </div>
+
+    <div id="map"></div>
+  </div>
+
+  <script>
+    var map = L.map('map').setView([35.1495, -90.0490], 11);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map); 
+
+    document.getElementById('langSelect').addEventListener('change', function() {
+      const lang = this.value;
+      document.getElementById('infoBox').textContent =
+        lang === 'all' ? 'Showing all languages.' : 'Showing: ' + this.options[this.selectedIndex].text;
+    });
+  </script>
+
+</body>
+</html>
