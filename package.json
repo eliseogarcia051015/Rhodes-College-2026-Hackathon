@@ -1,6 +1,7 @@
 {
   "type": "module",
-  "dependencies": {
+  "dependencies": 
+  {
     "csv-parse": "^6.2.1"
   }
 }
