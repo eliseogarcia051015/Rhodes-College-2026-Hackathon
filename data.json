@@ -1,0 +1,6516 @@
+[
+  {
+    "geoid": "47157000100",
+    "name": "Census Tract 1; Shelby County; Tennessee",
+    "total": 5103,
+    "nonEnglish": 936,
+    "nonEnglishPct": 18.3,
+    "languages": {
+      "spanish": 223,
+      "indoEuropean": 415,
+      "asian": 238,
+      "other": 60
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 415,
+        "pct": 8.1
+      },
+      {
+        "lang": "asian",
+        "count": 238,
+        "pct": 4.7
+      },
+      {
+        "lang": "spanish",
+        "count": 223,
+        "pct": 4.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157000200",
+    "name": "Census Tract 2; Shelby County; Tennessee",
+    "total": 1041,
+    "nonEnglish": 29,
+    "nonEnglishPct": 2.8,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 29,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 29,
+        "pct": 2.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157000300",
+    "name": "Census Tract 3; Shelby County; Tennessee",
+    "total": 528,
+    "nonEnglish": 63,
+    "nonEnglishPct": 11.9,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 63
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 63,
+        "pct": 11.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157000400",
+    "name": "Census Tract 4; Shelby County; Tennessee",
+    "total": 1314,
+    "nonEnglish": 35,
+    "nonEnglishPct": 2.7,
+    "languages": {
+      "spanish": 35,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 35,
+        "pct": 2.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157000600",
+    "name": "Census Tract 6; Shelby County; Tennessee",
+    "total": 1538,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157000700",
+    "name": "Census Tract 7; Shelby County; Tennessee",
+    "total": 3497,
+    "nonEnglish": 64,
+    "nonEnglishPct": 1.8,
+    "languages": {
+      "spanish": 14,
+      "indoEuropean": 37,
+      "asian": 0,
+      "other": 13
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 37,
+        "pct": 1.1
+      },
+      {
+        "lang": "spanish",
+        "count": 14,
+        "pct": 0.4
+      },
+      {
+        "lang": "other",
+        "count": 13,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157000800",
+    "name": "Census Tract 8; Shelby County; Tennessee",
+    "total": 1969,
+    "nonEnglish": 72,
+    "nonEnglishPct": 3.7,
+    "languages": {
+      "spanish": 72,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 72,
+        "pct": 3.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157000900",
+    "name": "Census Tract 9; Shelby County; Tennessee",
+    "total": 2273,
+    "nonEnglish": 412,
+    "nonEnglishPct": 18.1,
+    "languages": {
+      "spanish": 412,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 412,
+        "pct": 18.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157001100",
+    "name": "Census Tract 11; Shelby County; Tennessee",
+    "total": 2702,
+    "nonEnglish": 1256,
+    "nonEnglishPct": 46.5,
+    "languages": {
+      "spanish": 1256,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1256,
+        "pct": 46.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157001200",
+    "name": "Census Tract 12; Shelby County; Tennessee",
+    "total": 3669,
+    "nonEnglish": 1591,
+    "nonEnglishPct": 43.4,
+    "languages": {
+      "spanish": 1564,
+      "indoEuropean": 27,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1564,
+        "pct": 42.6
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 27,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157001300",
+    "name": "Census Tract 13; Shelby County; Tennessee",
+    "total": 3902,
+    "nonEnglish": 1375,
+    "nonEnglishPct": 35.2,
+    "languages": {
+      "spanish": 1339,
+      "indoEuropean": 0,
+      "asian": 36,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1339,
+        "pct": 34.3
+      },
+      {
+        "lang": "asian",
+        "count": 36,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157001400",
+    "name": "Census Tract 14; Shelby County; Tennessee",
+    "total": 1527,
+    "nonEnglish": 254,
+    "nonEnglishPct": 16.6,
+    "languages": {
+      "spanish": 254,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 254,
+        "pct": 16.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157001500",
+    "name": "Census Tract 15; Shelby County; Tennessee",
+    "total": 1833,
+    "nonEnglish": 234,
+    "nonEnglishPct": 12.8,
+    "languages": {
+      "spanish": 130,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 104
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 130,
+        "pct": 7.1
+      },
+      {
+        "lang": "other",
+        "count": 104,
+        "pct": 5.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157001600",
+    "name": "Census Tract 16; Shelby County; Tennessee",
+    "total": 2989,
+    "nonEnglish": 319,
+    "nonEnglishPct": 10.7,
+    "languages": {
+      "spanish": 163,
+      "indoEuropean": 97,
+      "asian": 24,
+      "other": 35
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 163,
+        "pct": 5.5
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 97,
+        "pct": 3.2
+      },
+      {
+        "lang": "other",
+        "count": 35,
+        "pct": 1.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157001700",
+    "name": "Census Tract 17; Shelby County; Tennessee",
+    "total": 3543,
+    "nonEnglish": 128,
+    "nonEnglishPct": 3.6,
+    "languages": {
+      "spanish": 93,
+      "indoEuropean": 19,
+      "asian": 16,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 93,
+        "pct": 2.6
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 19,
+        "pct": 0.5
+      },
+      {
+        "lang": "asian",
+        "count": 16,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157001900",
+    "name": "Census Tract 19; Shelby County; Tennessee",
+    "total": 1182,
+    "nonEnglish": 27,
+    "nonEnglishPct": 2.3,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 20,
+      "asian": 7,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 20,
+        "pct": 1.7
+      },
+      {
+        "lang": "asian",
+        "count": 7,
+        "pct": 0.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157002000",
+    "name": "Census Tract 20; Shelby County; Tennessee",
+    "total": 1024,
+    "nonEnglish": 38,
+    "nonEnglishPct": 3.7,
+    "languages": {
+      "spanish": 2,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 36
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 36,
+        "pct": 3.5
+      },
+      {
+        "lang": "spanish",
+        "count": 2,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157002100",
+    "name": "Census Tract 21; Shelby County; Tennessee",
+    "total": 1377,
+    "nonEnglish": 33,
+    "nonEnglishPct": 2.4,
+    "languages": {
+      "spanish": 32,
+      "indoEuropean": 0,
+      "asian": 1,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 32,
+        "pct": 2.3
+      },
+      {
+        "lang": "asian",
+        "count": 1,
+        "pct": 0.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157002400",
+    "name": "Census Tract 24; Shelby County; Tennessee",
+    "total": 1932,
+    "nonEnglish": 34,
+    "nonEnglishPct": 1.8,
+    "languages": {
+      "spanish": 23,
+      "indoEuropean": 11,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 23,
+        "pct": 1.2
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 11,
+        "pct": 0.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157002500",
+    "name": "Census Tract 25; Shelby County; Tennessee",
+    "total": 2846,
+    "nonEnglish": 590,
+    "nonEnglishPct": 20.7,
+    "languages": {
+      "spanish": 475,
+      "indoEuropean": 29,
+      "asian": 71,
+      "other": 15
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 475,
+        "pct": 16.7
+      },
+      {
+        "lang": "asian",
+        "count": 71,
+        "pct": 2.5
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 29,
+        "pct": 1.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157002600",
+    "name": "Census Tract 26; Shelby County; Tennessee",
+    "total": 2389,
+    "nonEnglish": 209,
+    "nonEnglishPct": 8.7,
+    "languages": {
+      "spanish": 108,
+      "indoEuropean": 73,
+      "asian": 28,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 108,
+        "pct": 4.5
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 73,
+        "pct": 3.1
+      },
+      {
+        "lang": "asian",
+        "count": 28,
+        "pct": 1.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157002700",
+    "name": "Census Tract 27; Shelby County; Tennessee",
+    "total": 1551,
+    "nonEnglish": 97,
+    "nonEnglishPct": 6.3,
+    "languages": {
+      "spanish": 10,
+      "indoEuropean": 0,
+      "asian": 5,
+      "other": 82
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 82,
+        "pct": 5.3
+      },
+      {
+        "lang": "spanish",
+        "count": 10,
+        "pct": 0.6
+      },
+      {
+        "lang": "asian",
+        "count": 5,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157002800",
+    "name": "Census Tract 28; Shelby County; Tennessee",
+    "total": 2232,
+    "nonEnglish": 381,
+    "nonEnglishPct": 17.1,
+    "languages": {
+      "spanish": 217,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 164
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 217,
+        "pct": 9.7
+      },
+      {
+        "lang": "other",
+        "count": 164,
+        "pct": 7.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157002900",
+    "name": "Census Tract 29; Shelby County; Tennessee",
+    "total": 3751,
+    "nonEnglish": 380,
+    "nonEnglishPct": 10.1,
+    "languages": {
+      "spanish": 38,
+      "indoEuropean": 105,
+      "asian": 237,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 237,
+        "pct": 6.3
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 105,
+        "pct": 2.8
+      },
+      {
+        "lang": "spanish",
+        "count": 38,
+        "pct": 1.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157003000",
+    "name": "Census Tract 30; Shelby County; Tennessee",
+    "total": 2485,
+    "nonEnglish": 113,
+    "nonEnglishPct": 4.5,
+    "languages": {
+      "spanish": 46,
+      "indoEuropean": 59,
+      "asian": 8,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 59,
+        "pct": 2.4
+      },
+      {
+        "lang": "spanish",
+        "count": 46,
+        "pct": 1.9
+      },
+      {
+        "lang": "asian",
+        "count": 8,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157003100",
+    "name": "Census Tract 31; Shelby County; Tennessee",
+    "total": 3464,
+    "nonEnglish": 364,
+    "nonEnglishPct": 10.5,
+    "languages": {
+      "spanish": 179,
+      "indoEuropean": 114,
+      "asian": 18,
+      "other": 53
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 179,
+        "pct": 5.2
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 114,
+        "pct": 3.3
+      },
+      {
+        "lang": "other",
+        "count": 53,
+        "pct": 1.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157003200",
+    "name": "Census Tract 32; Shelby County; Tennessee",
+    "total": 3651,
+    "nonEnglish": 316,
+    "nonEnglishPct": 8.7,
+    "languages": {
+      "spanish": 167,
+      "indoEuropean": 43,
+      "asian": 83,
+      "other": 23
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 167,
+        "pct": 4.6
+      },
+      {
+        "lang": "asian",
+        "count": 83,
+        "pct": 2.3
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 43,
+        "pct": 1.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157003300",
+    "name": "Census Tract 33; Shelby County; Tennessee",
+    "total": 2047,
+    "nonEnglish": 127,
+    "nonEnglishPct": 6.2,
+    "languages": {
+      "spanish": 86,
+      "indoEuropean": 12,
+      "asian": 29,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 86,
+        "pct": 4.2
+      },
+      {
+        "lang": "asian",
+        "count": 29,
+        "pct": 1.4
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 12,
+        "pct": 0.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157003400",
+    "name": "Census Tract 34; Shelby County; Tennessee",
+    "total": 2201,
+    "nonEnglish": 90,
+    "nonEnglishPct": 4.1,
+    "languages": {
+      "spanish": 41,
+      "indoEuropean": 39,
+      "asian": 10,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 41,
+        "pct": 1.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 39,
+        "pct": 1.8
+      },
+      {
+        "lang": "asian",
+        "count": 10,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157003500",
+    "name": "Census Tract 35; Shelby County; Tennessee",
+    "total": 2895,
+    "nonEnglish": 40,
+    "nonEnglishPct": 1.4,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 21,
+      "asian": 19,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 21,
+        "pct": 0.7
+      },
+      {
+        "lang": "asian",
+        "count": 19,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157003600",
+    "name": "Census Tract 36; Shelby County; Tennessee",
+    "total": 1115,
+    "nonEnglish": 141,
+    "nonEnglishPct": 12.6,
+    "languages": {
+      "spanish": 13,
+      "indoEuropean": 0,
+      "asian": 128,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 128,
+        "pct": 11.5
+      },
+      {
+        "lang": "spanish",
+        "count": 13,
+        "pct": 1.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157003700",
+    "name": "Census Tract 37; Shelby County; Tennessee",
+    "total": 1225,
+    "nonEnglish": 73,
+    "nonEnglishPct": 6.0,
+    "languages": {
+      "spanish": 20,
+      "indoEuropean": 26,
+      "asian": 24,
+      "other": 3
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 26,
+        "pct": 2.1
+      },
+      {
+        "lang": "asian",
+        "count": 24,
+        "pct": 2.0
+      },
+      {
+        "lang": "spanish",
+        "count": 20,
+        "pct": 1.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157003800",
+    "name": "Census Tract 38; Shelby County; Tennessee",
+    "total": 699,
+    "nonEnglish": 81,
+    "nonEnglishPct": 11.6,
+    "languages": {
+      "spanish": 10,
+      "indoEuropean": 44,
+      "asian": 15,
+      "other": 12
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 44,
+        "pct": 6.3
+      },
+      {
+        "lang": "asian",
+        "count": 15,
+        "pct": 2.1
+      },
+      {
+        "lang": "other",
+        "count": 12,
+        "pct": 1.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157003900",
+    "name": "Census Tract 39; Shelby County; Tennessee",
+    "total": 1382,
+    "nonEnglish": 223,
+    "nonEnglishPct": 16.1,
+    "languages": {
+      "spanish": 12,
+      "indoEuropean": 162,
+      "asian": 27,
+      "other": 22
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 162,
+        "pct": 11.7
+      },
+      {
+        "lang": "asian",
+        "count": 27,
+        "pct": 2.0
+      },
+      {
+        "lang": "other",
+        "count": 22,
+        "pct": 1.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157004200",
+    "name": "Census Tract 42; Shelby County; Tennessee",
+    "total": 3445,
+    "nonEnglish": 169,
+    "nonEnglishPct": 4.9,
+    "languages": {
+      "spanish": 78,
+      "indoEuropean": 77,
+      "asian": 14,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 78,
+        "pct": 2.3
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 77,
+        "pct": 2.2
+      },
+      {
+        "lang": "asian",
+        "count": 14,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157004300",
+    "name": "Census Tract 43; Shelby County; Tennessee",
+    "total": 2887,
+    "nonEnglish": 241,
+    "nonEnglishPct": 8.3,
+    "languages": {
+      "spanish": 61,
+      "indoEuropean": 79,
+      "asian": 101,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 101,
+        "pct": 3.5
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 79,
+        "pct": 2.7
+      },
+      {
+        "lang": "spanish",
+        "count": 61,
+        "pct": 2.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157004500",
+    "name": "Census Tract 45; Shelby County; Tennessee",
+    "total": 645,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157004600",
+    "name": "Census Tract 46; Shelby County; Tennessee",
+    "total": 1528,
+    "nonEnglish": 12,
+    "nonEnglishPct": 0.8,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 12,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 12,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157005000",
+    "name": "Census Tract 50; Shelby County; Tennessee",
+    "total": 806,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157005300",
+    "name": "Census Tract 53; Shelby County; Tennessee",
+    "total": 2360,
+    "nonEnglish": 2,
+    "nonEnglishPct": 0.1,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 2
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 2,
+        "pct": 0.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157005500",
+    "name": "Census Tract 55; Shelby County; Tennessee",
+    "total": 1954,
+    "nonEnglish": 17,
+    "nonEnglishPct": 0.9,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 17
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 17,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157005600",
+    "name": "Census Tract 56; Shelby County; Tennessee",
+    "total": 3348,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157005700",
+    "name": "Census Tract 57; Shelby County; Tennessee",
+    "total": 1705,
+    "nonEnglish": 51,
+    "nonEnglishPct": 3.0,
+    "languages": {
+      "spanish": 5,
+      "indoEuropean": 46,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 46,
+        "pct": 2.7
+      },
+      {
+        "lang": "spanish",
+        "count": 5,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157005800",
+    "name": "Census Tract 58; Shelby County; Tennessee",
+    "total": 933,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157005900",
+    "name": "Census Tract 59; Shelby County; Tennessee",
+    "total": 1816,
+    "nonEnglish": 30,
+    "nonEnglishPct": 1.7,
+    "languages": {
+      "spanish": 15,
+      "indoEuropean": 15,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 15,
+        "pct": 0.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 15,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157006000",
+    "name": "Census Tract 60; Shelby County; Tennessee",
+    "total": 1586,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157006200",
+    "name": "Census Tract 62; Shelby County; Tennessee",
+    "total": 1527,
+    "nonEnglish": 142,
+    "nonEnglishPct": 9.3,
+    "languages": {
+      "spanish": 134,
+      "indoEuropean": 8,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 134,
+        "pct": 8.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 8,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157006300",
+    "name": "Census Tract 63; Shelby County; Tennessee",
+    "total": 2140,
+    "nonEnglish": 64,
+    "nonEnglishPct": 3.0,
+    "languages": {
+      "spanish": 8,
+      "indoEuropean": 28,
+      "asian": 28,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 28,
+        "pct": 1.3
+      },
+      {
+        "lang": "asian",
+        "count": 28,
+        "pct": 1.3
+      },
+      {
+        "lang": "spanish",
+        "count": 8,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157006400",
+    "name": "Census Tract 64; Shelby County; Tennessee",
+    "total": 1474,
+    "nonEnglish": 43,
+    "nonEnglishPct": 2.9,
+    "languages": {
+      "spanish": 15,
+      "indoEuropean": 12,
+      "asian": 16,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 16,
+        "pct": 1.1
+      },
+      {
+        "lang": "spanish",
+        "count": 15,
+        "pct": 1.0
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 12,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157006500",
+    "name": "Census Tract 65; Shelby County; Tennessee",
+    "total": 1779,
+    "nonEnglish": 132,
+    "nonEnglishPct": 7.4,
+    "languages": {
+      "spanish": 105,
+      "indoEuropean": 14,
+      "asian": 0,
+      "other": 13
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 105,
+        "pct": 5.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 14,
+        "pct": 0.8
+      },
+      {
+        "lang": "other",
+        "count": 13,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157006600",
+    "name": "Census Tract 66; Shelby County; Tennessee",
+    "total": 2046,
+    "nonEnglish": 96,
+    "nonEnglishPct": 4.7,
+    "languages": {
+      "spanish": 30,
+      "indoEuropean": 27,
+      "asian": 39,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 39,
+        "pct": 1.9
+      },
+      {
+        "lang": "spanish",
+        "count": 30,
+        "pct": 1.5
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 27,
+        "pct": 1.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157006700",
+    "name": "Census Tract 67; Shelby County; Tennessee",
+    "total": 2612,
+    "nonEnglish": 118,
+    "nonEnglishPct": 4.5,
+    "languages": {
+      "spanish": 118,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 118,
+        "pct": 4.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157006800",
+    "name": "Census Tract 68; Shelby County; Tennessee",
+    "total": 1800,
+    "nonEnglish": 5,
+    "nonEnglishPct": 0.3,
+    "languages": {
+      "spanish": 1,
+      "indoEuropean": 4,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 4,
+        "pct": 0.2
+      },
+      {
+        "lang": "spanish",
+        "count": 1,
+        "pct": 0.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157006900",
+    "name": "Census Tract 69; Shelby County; Tennessee",
+    "total": 2041,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157007000",
+    "name": "Census Tract 70; Shelby County; Tennessee",
+    "total": 2437,
+    "nonEnglish": 151,
+    "nonEnglishPct": 6.2,
+    "languages": {
+      "spanish": 117,
+      "indoEuropean": 0,
+      "asian": 34,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 117,
+        "pct": 4.8
+      },
+      {
+        "lang": "asian",
+        "count": 34,
+        "pct": 1.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157007100",
+    "name": "Census Tract 71; Shelby County; Tennessee",
+    "total": 2386,
+    "nonEnglish": 196,
+    "nonEnglishPct": 8.2,
+    "languages": {
+      "spanish": 114,
+      "indoEuropean": 40,
+      "asian": 42,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 114,
+        "pct": 4.8
+      },
+      {
+        "lang": "asian",
+        "count": 42,
+        "pct": 1.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 40,
+        "pct": 1.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157007200",
+    "name": "Census Tract 72; Shelby County; Tennessee",
+    "total": 2619,
+    "nonEnglish": 149,
+    "nonEnglishPct": 5.7,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 95,
+      "asian": 0,
+      "other": 54
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 95,
+        "pct": 3.6
+      },
+      {
+        "lang": "other",
+        "count": 54,
+        "pct": 2.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157007300",
+    "name": "Census Tract 73; Shelby County; Tennessee",
+    "total": 3788,
+    "nonEnglish": 994,
+    "nonEnglishPct": 26.2,
+    "languages": {
+      "spanish": 360,
+      "indoEuropean": 494,
+      "asian": 43,
+      "other": 97
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 494,
+        "pct": 13.0
+      },
+      {
+        "lang": "spanish",
+        "count": 360,
+        "pct": 9.5
+      },
+      {
+        "lang": "other",
+        "count": 97,
+        "pct": 2.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157007400",
+    "name": "Census Tract 74; Shelby County; Tennessee",
+    "total": 2906,
+    "nonEnglish": 531,
+    "nonEnglishPct": 18.3,
+    "languages": {
+      "spanish": 153,
+      "indoEuropean": 119,
+      "asian": 203,
+      "other": 56
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 203,
+        "pct": 7.0
+      },
+      {
+        "lang": "spanish",
+        "count": 153,
+        "pct": 5.3
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 119,
+        "pct": 4.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157007500",
+    "name": "Census Tract 75; Shelby County; Tennessee",
+    "total": 1123,
+    "nonEnglish": 4,
+    "nonEnglishPct": 0.4,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 4
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 4,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157007810",
+    "name": "Census Tract 78.10; Shelby County; Tennessee",
+    "total": 1980,
+    "nonEnglish": 88,
+    "nonEnglishPct": 4.4,
+    "languages": {
+      "spanish": 18,
+      "indoEuropean": 70,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 70,
+        "pct": 3.5
+      },
+      {
+        "lang": "spanish",
+        "count": 18,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157007821",
+    "name": "Census Tract 78.21; Shelby County; Tennessee",
+    "total": 3973,
+    "nonEnglish": 34,
+    "nonEnglishPct": 0.9,
+    "languages": {
+      "spanish": 34,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 34,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157007822",
+    "name": "Census Tract 78.22; Shelby County; Tennessee",
+    "total": 1293,
+    "nonEnglish": 396,
+    "nonEnglishPct": 30.6,
+    "languages": {
+      "spanish": 396,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 396,
+        "pct": 30.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157007900",
+    "name": "Census Tract 79; Shelby County; Tennessee",
+    "total": 4153,
+    "nonEnglish": 248,
+    "nonEnglishPct": 6.0,
+    "languages": {
+      "spanish": 169,
+      "indoEuropean": 0,
+      "asian": 13,
+      "other": 66
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 169,
+        "pct": 4.1
+      },
+      {
+        "lang": "other",
+        "count": 66,
+        "pct": 1.6
+      },
+      {
+        "lang": "asian",
+        "count": 13,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157008000",
+    "name": "Census Tract 80; Shelby County; Tennessee",
+    "total": 4289,
+    "nonEnglish": 418,
+    "nonEnglishPct": 9.7,
+    "languages": {
+      "spanish": 418,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 418,
+        "pct": 9.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157008110",
+    "name": "Census Tract 81.10; Shelby County; Tennessee",
+    "total": 1666,
+    "nonEnglish": 369,
+    "nonEnglishPct": 22.1,
+    "languages": {
+      "spanish": 357,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 12
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 357,
+        "pct": 21.4
+      },
+      {
+        "lang": "other",
+        "count": 12,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157008120",
+    "name": "Census Tract 81.20; Shelby County; Tennessee",
+    "total": 3668,
+    "nonEnglish": 40,
+    "nonEnglishPct": 1.1,
+    "languages": {
+      "spanish": 40,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 40,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157008200",
+    "name": "Census Tract 82; Shelby County; Tennessee",
+    "total": 4206,
+    "nonEnglish": 1522,
+    "nonEnglishPct": 36.2,
+    "languages": {
+      "spanish": 1306,
+      "indoEuropean": 0,
+      "asian": 169,
+      "other": 47
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1306,
+        "pct": 31.1
+      },
+      {
+        "lang": "asian",
+        "count": 169,
+        "pct": 4.0
+      },
+      {
+        "lang": "other",
+        "count": 47,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157008500",
+    "name": "Census Tract 85; Shelby County; Tennessee",
+    "total": 3911,
+    "nonEnglish": 197,
+    "nonEnglishPct": 5.0,
+    "languages": {
+      "spanish": 4,
+      "indoEuropean": 55,
+      "asian": 138,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 138,
+        "pct": 3.5
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 55,
+        "pct": 1.4
+      },
+      {
+        "lang": "spanish",
+        "count": 4,
+        "pct": 0.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157008600",
+    "name": "Census Tract 86; Shelby County; Tennessee",
+    "total": 5141,
+    "nonEnglish": 624,
+    "nonEnglishPct": 12.1,
+    "languages": {
+      "spanish": 250,
+      "indoEuropean": 86,
+      "asian": 106,
+      "other": 182
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 250,
+        "pct": 4.9
+      },
+      {
+        "lang": "other",
+        "count": 182,
+        "pct": 3.5
+      },
+      {
+        "lang": "asian",
+        "count": 106,
+        "pct": 2.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157008700",
+    "name": "Census Tract 87; Shelby County; Tennessee",
+    "total": 5512,
+    "nonEnglish": 2000,
+    "nonEnglishPct": 36.3,
+    "languages": {
+      "spanish": 1862,
+      "indoEuropean": 63,
+      "asian": 63,
+      "other": 12
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1862,
+        "pct": 33.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 63,
+        "pct": 1.1
+      },
+      {
+        "lang": "asian",
+        "count": 63,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157008800",
+    "name": "Census Tract 88; Shelby County; Tennessee",
+    "total": 6560,
+    "nonEnglish": 3426,
+    "nonEnglishPct": 52.2,
+    "languages": {
+      "spanish": 3283,
+      "indoEuropean": 0,
+      "asian": 143,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 3283,
+        "pct": 50.0
+      },
+      {
+        "lang": "asian",
+        "count": 143,
+        "pct": 2.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157008900",
+    "name": "Census Tract 89; Shelby County; Tennessee",
+    "total": 3863,
+    "nonEnglish": 1691,
+    "nonEnglishPct": 43.8,
+    "languages": {
+      "spanish": 1681,
+      "indoEuropean": 0,
+      "asian": 10,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1681,
+        "pct": 43.5
+      },
+      {
+        "lang": "asian",
+        "count": 10,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157009100",
+    "name": "Census Tract 91; Shelby County; Tennessee",
+    "total": 2884,
+    "nonEnglish": 1529,
+    "nonEnglishPct": 53.0,
+    "languages": {
+      "spanish": 1168,
+      "indoEuropean": 13,
+      "asian": 3,
+      "other": 345
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1168,
+        "pct": 40.5
+      },
+      {
+        "lang": "other",
+        "count": 345,
+        "pct": 12.0
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 13,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157009201",
+    "name": "Census Tract 92.01; Shelby County; Tennessee",
+    "total": 2895,
+    "nonEnglish": 222,
+    "nonEnglishPct": 7.7,
+    "languages": {
+      "spanish": 122,
+      "indoEuropean": 11,
+      "asian": 89,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 122,
+        "pct": 4.2
+      },
+      {
+        "lang": "asian",
+        "count": 89,
+        "pct": 3.1
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 11,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157009202",
+    "name": "Census Tract 92.02; Shelby County; Tennessee",
+    "total": 3453,
+    "nonEnglish": 201,
+    "nonEnglishPct": 5.8,
+    "languages": {
+      "spanish": 54,
+      "indoEuropean": 8,
+      "asian": 139,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 139,
+        "pct": 4.0
+      },
+      {
+        "lang": "spanish",
+        "count": 54,
+        "pct": 1.6
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 8,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157009300",
+    "name": "Census Tract 93; Shelby County; Tennessee",
+    "total": 3491,
+    "nonEnglish": 375,
+    "nonEnglishPct": 10.7,
+    "languages": {
+      "spanish": 347,
+      "indoEuropean": 28,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 347,
+        "pct": 9.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 28,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157009400",
+    "name": "Census Tract 94; Shelby County; Tennessee",
+    "total": 2942,
+    "nonEnglish": 42,
+    "nonEnglishPct": 1.4,
+    "languages": {
+      "spanish": 42,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 42,
+        "pct": 1.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157009501",
+    "name": "Census Tract 95.01; Shelby County; Tennessee",
+    "total": 2915,
+    "nonEnglish": 127,
+    "nonEnglishPct": 4.4,
+    "languages": {
+      "spanish": 127,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 127,
+        "pct": 4.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157009502",
+    "name": "Census Tract 95.02; Shelby County; Tennessee",
+    "total": 3195,
+    "nonEnglish": 133,
+    "nonEnglishPct": 4.2,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 9,
+      "asian": 124,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 124,
+        "pct": 3.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 9,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157009600",
+    "name": "Census Tract 96; Shelby County; Tennessee",
+    "total": 4485,
+    "nonEnglish": 261,
+    "nonEnglishPct": 5.8,
+    "languages": {
+      "spanish": 1,
+      "indoEuropean": 14,
+      "asian": 35,
+      "other": 211
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 211,
+        "pct": 4.7
+      },
+      {
+        "lang": "asian",
+        "count": 35,
+        "pct": 0.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 14,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157009700",
+    "name": "Census Tract 97; Shelby County; Tennessee",
+    "total": 2701,
+    "nonEnglish": 467,
+    "nonEnglishPct": 17.3,
+    "languages": {
+      "spanish": 461,
+      "indoEuropean": 6,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 461,
+        "pct": 17.1
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 6,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157009800",
+    "name": "Census Tract 98; Shelby County; Tennessee",
+    "total": 2194,
+    "nonEnglish": 553,
+    "nonEnglishPct": 25.2,
+    "languages": {
+      "spanish": 243,
+      "indoEuropean": 236,
+      "asian": 0,
+      "other": 74
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 243,
+        "pct": 11.1
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 236,
+        "pct": 10.8
+      },
+      {
+        "lang": "other",
+        "count": 74,
+        "pct": 3.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157009901",
+    "name": "Census Tract 99.01; Shelby County; Tennessee",
+    "total": 2788,
+    "nonEnglish": 143,
+    "nonEnglishPct": 5.1,
+    "languages": {
+      "spanish": 70,
+      "indoEuropean": 73,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 73,
+        "pct": 2.6
+      },
+      {
+        "lang": "spanish",
+        "count": 70,
+        "pct": 2.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157009902",
+    "name": "Census Tract 99.02; Shelby County; Tennessee",
+    "total": 1889,
+    "nonEnglish": 80,
+    "nonEnglishPct": 4.2,
+    "languages": {
+      "spanish": 80,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 80,
+        "pct": 4.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157010001",
+    "name": "Census Tract 100.01; Shelby County; Tennessee",
+    "total": 2803,
+    "nonEnglish": 281,
+    "nonEnglishPct": 10.0,
+    "languages": {
+      "spanish": 281,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 281,
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157010002",
+    "name": "Census Tract 100.02; Shelby County; Tennessee",
+    "total": 2866,
+    "nonEnglish": 103,
+    "nonEnglishPct": 3.6,
+    "languages": {
+      "spanish": 103,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 103,
+        "pct": 3.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157010120",
+    "name": "Census Tract 101.20; Shelby County; Tennessee",
+    "total": 4231,
+    "nonEnglish": 194,
+    "nonEnglishPct": 4.6,
+    "languages": {
+      "spanish": 170,
+      "indoEuropean": 24,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 170,
+        "pct": 4.0
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 24,
+        "pct": 0.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157010121",
+    "name": "Census Tract 101.21; Shelby County; Tennessee",
+    "total": 2213,
+    "nonEnglish": 1,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 1,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1,
+        "pct": 0.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157010122",
+    "name": "Census Tract 101.22; Shelby County; Tennessee",
+    "total": 3019,
+    "nonEnglish": 74,
+    "nonEnglishPct": 2.5,
+    "languages": {
+      "spanish": 65,
+      "indoEuropean": 0,
+      "asian": 9,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 65,
+        "pct": 2.2
+      },
+      {
+        "lang": "asian",
+        "count": 9,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157010210",
+    "name": "Census Tract 102.10; Shelby County; Tennessee",
+    "total": 5486,
+    "nonEnglish": 442,
+    "nonEnglishPct": 8.1,
+    "languages": {
+      "spanish": 48,
+      "indoEuropean": 233,
+      "asian": 129,
+      "other": 32
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 233,
+        "pct": 4.2
+      },
+      {
+        "lang": "asian",
+        "count": 129,
+        "pct": 2.4
+      },
+      {
+        "lang": "spanish",
+        "count": 48,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157010220",
+    "name": "Census Tract 102.20; Shelby County; Tennessee",
+    "total": 5617,
+    "nonEnglish": 311,
+    "nonEnglishPct": 5.5,
+    "languages": {
+      "spanish": 186,
+      "indoEuropean": 125,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 186,
+        "pct": 3.3
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 125,
+        "pct": 2.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157010300",
+    "name": "Census Tract 103; Shelby County; Tennessee",
+    "total": 1441,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157010500",
+    "name": "Census Tract 105; Shelby County; Tennessee",
+    "total": 2665,
+    "nonEnglish": 432,
+    "nonEnglishPct": 16.2,
+    "languages": {
+      "spanish": 425,
+      "indoEuropean": 7,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 425,
+        "pct": 15.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 7,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157010610",
+    "name": "Census Tract 106.10; Shelby County; Tennessee",
+    "total": 5415,
+    "nonEnglish": 931,
+    "nonEnglishPct": 17.2,
+    "languages": {
+      "spanish": 787,
+      "indoEuropean": 36,
+      "asian": 0,
+      "other": 108
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 787,
+        "pct": 14.5
+      },
+      {
+        "lang": "other",
+        "count": 108,
+        "pct": 2.0
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 36,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157010620",
+    "name": "Census Tract 106.20; Shelby County; Tennessee",
+    "total": 3176,
+    "nonEnglish": 809,
+    "nonEnglishPct": 25.5,
+    "languages": {
+      "spanish": 809,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 809,
+        "pct": 25.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157010630",
+    "name": "Census Tract 106.30; Shelby County; Tennessee",
+    "total": 3814,
+    "nonEnglish": 1683,
+    "nonEnglishPct": 44.1,
+    "languages": {
+      "spanish": 1426,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 257
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1426,
+        "pct": 37.4
+      },
+      {
+        "lang": "other",
+        "count": 257,
+        "pct": 6.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157010710",
+    "name": "Census Tract 107.10; Shelby County; Tennessee",
+    "total": 3735,
+    "nonEnglish": 1270,
+    "nonEnglishPct": 34.0,
+    "languages": {
+      "spanish": 1096,
+      "indoEuropean": 0,
+      "asian": 108,
+      "other": 66
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1096,
+        "pct": 29.3
+      },
+      {
+        "lang": "asian",
+        "count": 108,
+        "pct": 2.9
+      },
+      {
+        "lang": "other",
+        "count": 66,
+        "pct": 1.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157010720",
+    "name": "Census Tract 107.20; Shelby County; Tennessee",
+    "total": 3421,
+    "nonEnglish": 172,
+    "nonEnglishPct": 5.0,
+    "languages": {
+      "spanish": 171,
+      "indoEuropean": 0,
+      "asian": 1,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 171,
+        "pct": 5.0
+      },
+      {
+        "lang": "asian",
+        "count": 1,
+        "pct": 0.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157010810",
+    "name": "Census Tract 108.10; Shelby County; Tennessee",
+    "total": 5750,
+    "nonEnglish": 639,
+    "nonEnglishPct": 11.1,
+    "languages": {
+      "spanish": 440,
+      "indoEuropean": 0,
+      "asian": 97,
+      "other": 102
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 440,
+        "pct": 7.7
+      },
+      {
+        "lang": "other",
+        "count": 102,
+        "pct": 1.8
+      },
+      {
+        "lang": "asian",
+        "count": 97,
+        "pct": 1.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157010820",
+    "name": "Census Tract 108.20; Shelby County; Tennessee",
+    "total": 4421,
+    "nonEnglish": 249,
+    "nonEnglishPct": 5.6,
+    "languages": {
+      "spanish": 162,
+      "indoEuropean": 43,
+      "asian": 35,
+      "other": 9
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 162,
+        "pct": 3.7
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 43,
+        "pct": 1.0
+      },
+      {
+        "lang": "asian",
+        "count": 35,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157011010",
+    "name": "Census Tract 110.10; Shelby County; Tennessee",
+    "total": 2856,
+    "nonEnglish": 589,
+    "nonEnglishPct": 20.6,
+    "languages": {
+      "spanish": 589,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 589,
+        "pct": 20.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157011020",
+    "name": "Census Tract 110.20; Shelby County; Tennessee",
+    "total": 1344,
+    "nonEnglish": 69,
+    "nonEnglishPct": 5.1,
+    "languages": {
+      "spanish": 59,
+      "indoEuropean": 0,
+      "asian": 10,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 59,
+        "pct": 4.4
+      },
+      {
+        "lang": "asian",
+        "count": 10,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157011100",
+    "name": "Census Tract 111; Shelby County; Tennessee",
+    "total": 1462,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157011200",
+    "name": "Census Tract 112; Shelby County; Tennessee",
+    "total": 934,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157011300",
+    "name": "Census Tract 113; Shelby County; Tennessee",
+    "total": 1145,
+    "nonEnglish": 190,
+    "nonEnglishPct": 16.6,
+    "languages": {
+      "spanish": 25,
+      "indoEuropean": 9,
+      "asian": 90,
+      "other": 66
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 90,
+        "pct": 7.9
+      },
+      {
+        "lang": "other",
+        "count": 66,
+        "pct": 5.8
+      },
+      {
+        "lang": "spanish",
+        "count": 25,
+        "pct": 2.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157011401",
+    "name": "Census Tract 114.01; Shelby County; Tennessee",
+    "total": 1522,
+    "nonEnglish": 87,
+    "nonEnglishPct": 5.7,
+    "languages": {
+      "spanish": 57,
+      "indoEuropean": 30,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 57,
+        "pct": 3.7
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 30,
+        "pct": 2.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157011402",
+    "name": "Census Tract 114.02; Shelby County; Tennessee",
+    "total": 3689,
+    "nonEnglish": 343,
+    "nonEnglishPct": 9.3,
+    "languages": {
+      "spanish": 255,
+      "indoEuropean": 70,
+      "asian": 11,
+      "other": 7
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 255,
+        "pct": 6.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 70,
+        "pct": 1.9
+      },
+      {
+        "lang": "asian",
+        "count": 11,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157011500",
+    "name": "Census Tract 115; Shelby County; Tennessee",
+    "total": 1717,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157011600",
+    "name": "Census Tract 116; Shelby County; Tennessee",
+    "total": 1907,
+    "nonEnglish": 25,
+    "nonEnglishPct": 1.3,
+    "languages": {
+      "spanish": 13,
+      "indoEuropean": 12,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 13,
+        "pct": 0.7
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 12,
+        "pct": 0.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157011700",
+    "name": "Census Tract 117; Shelby County; Tennessee",
+    "total": 1013,
+    "nonEnglish": 4,
+    "nonEnglishPct": 0.4,
+    "languages": {
+      "spanish": 3,
+      "indoEuropean": 1,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 3,
+        "pct": 0.3
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 1,
+        "pct": 0.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157011800",
+    "name": "Census Tract 118; Shelby County; Tennessee",
+    "total": 5860,
+    "nonEnglish": 951,
+    "nonEnglishPct": 16.2,
+    "languages": {
+      "spanish": 805,
+      "indoEuropean": 19,
+      "asian": 91,
+      "other": 36
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 805,
+        "pct": 13.7
+      },
+      {
+        "lang": "asian",
+        "count": 91,
+        "pct": 1.6
+      },
+      {
+        "lang": "other",
+        "count": 36,
+        "pct": 0.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157020101",
+    "name": "Census Tract 201.01; Shelby County; Tennessee",
+    "total": 3761,
+    "nonEnglish": 277,
+    "nonEnglishPct": 7.4,
+    "languages": {
+      "spanish": 145,
+      "indoEuropean": 44,
+      "asian": 68,
+      "other": 20
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 145,
+        "pct": 3.9
+      },
+      {
+        "lang": "asian",
+        "count": 68,
+        "pct": 1.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 44,
+        "pct": 1.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157020102",
+    "name": "Census Tract 201.02; Shelby County; Tennessee",
+    "total": 2787,
+    "nonEnglish": 218,
+    "nonEnglishPct": 7.8,
+    "languages": {
+      "spanish": 162,
+      "indoEuropean": 25,
+      "asian": 31,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 162,
+        "pct": 5.8
+      },
+      {
+        "lang": "asian",
+        "count": 31,
+        "pct": 1.1
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 25,
+        "pct": 0.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157020210",
+    "name": "Census Tract 202.10; Shelby County; Tennessee",
+    "total": 5341,
+    "nonEnglish": 562,
+    "nonEnglishPct": 10.5,
+    "languages": {
+      "spanish": 505,
+      "indoEuropean": 0,
+      "asian": 53,
+      "other": 4
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 505,
+        "pct": 9.5
+      },
+      {
+        "lang": "asian",
+        "count": 53,
+        "pct": 1.0
+      },
+      {
+        "lang": "other",
+        "count": 4,
+        "pct": 0.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157020221",
+    "name": "Census Tract 202.21; Shelby County; Tennessee",
+    "total": 2917,
+    "nonEnglish": 81,
+    "nonEnglishPct": 2.8,
+    "languages": {
+      "spanish": 78,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 3
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 78,
+        "pct": 2.7
+      },
+      {
+        "lang": "other",
+        "count": 3,
+        "pct": 0.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157020222",
+    "name": "Census Tract 202.22; Shelby County; Tennessee",
+    "total": 2637,
+    "nonEnglish": 341,
+    "nonEnglishPct": 12.9,
+    "languages": {
+      "spanish": 328,
+      "indoEuropean": 0,
+      "asian": 13,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 328,
+        "pct": 12.4
+      },
+      {
+        "lang": "asian",
+        "count": 13,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157020301",
+    "name": "Census Tract 203.01; Shelby County; Tennessee",
+    "total": 1373,
+    "nonEnglish": 157,
+    "nonEnglishPct": 11.4,
+    "languages": {
+      "spanish": 107,
+      "indoEuropean": 0,
+      "asian": 50,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 107,
+        "pct": 7.8
+      },
+      {
+        "lang": "asian",
+        "count": 50,
+        "pct": 3.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157020302",
+    "name": "Census Tract 203.02; Shelby County; Tennessee",
+    "total": 2982,
+    "nonEnglish": 69,
+    "nonEnglishPct": 2.3,
+    "languages": {
+      "spanish": 39,
+      "indoEuropean": 10,
+      "asian": 20,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 39,
+        "pct": 1.3
+      },
+      {
+        "lang": "asian",
+        "count": 20,
+        "pct": 0.7
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 10,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157020400",
+    "name": "Census Tract 204; Shelby County; Tennessee",
+    "total": 777,
+    "nonEnglish": 85,
+    "nonEnglishPct": 10.9,
+    "languages": {
+      "spanish": 59,
+      "indoEuropean": 0,
+      "asian": 26,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 59,
+        "pct": 7.6
+      },
+      {
+        "lang": "asian",
+        "count": 26,
+        "pct": 3.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157020511",
+    "name": "Census Tract 205.11; Shelby County; Tennessee",
+    "total": 2124,
+    "nonEnglish": 118,
+    "nonEnglishPct": 5.6,
+    "languages": {
+      "spanish": 69,
+      "indoEuropean": 0,
+      "asian": 49,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 69,
+        "pct": 3.2
+      },
+      {
+        "lang": "asian",
+        "count": 49,
+        "pct": 2.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157020521",
+    "name": "Census Tract 205.21; Shelby County; Tennessee",
+    "total": 3419,
+    "nonEnglish": 421,
+    "nonEnglishPct": 12.3,
+    "languages": {
+      "spanish": 412,
+      "indoEuropean": 0,
+      "asian": 9,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 412,
+        "pct": 12.1
+      },
+      {
+        "lang": "asian",
+        "count": 9,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157020523",
+    "name": "Census Tract 205.23; Shelby County; Tennessee",
+    "total": 3350,
+    "nonEnglish": 229,
+    "nonEnglishPct": 6.8,
+    "languages": {
+      "spanish": 221,
+      "indoEuropean": 0,
+      "asian": 8,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 221,
+        "pct": 6.6
+      },
+      {
+        "lang": "asian",
+        "count": 8,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157020524",
+    "name": "Census Tract 205.24; Shelby County; Tennessee",
+    "total": 4149,
+    "nonEnglish": 569,
+    "nonEnglishPct": 13.7,
+    "languages": {
+      "spanish": 492,
+      "indoEuropean": 28,
+      "asian": 49,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 492,
+        "pct": 11.9
+      },
+      {
+        "lang": "asian",
+        "count": 49,
+        "pct": 1.2
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 28,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157020531",
+    "name": "Census Tract 205.31; Shelby County; Tennessee",
+    "total": 4722,
+    "nonEnglish": 691,
+    "nonEnglishPct": 14.6,
+    "languages": {
+      "spanish": 676,
+      "indoEuropean": 5,
+      "asian": 0,
+      "other": 10
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 676,
+        "pct": 14.3
+      },
+      {
+        "lang": "other",
+        "count": 10,
+        "pct": 0.2
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 5,
+        "pct": 0.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157020532",
+    "name": "Census Tract 205.32; Shelby County; Tennessee",
+    "total": 5097,
+    "nonEnglish": 192,
+    "nonEnglishPct": 3.8,
+    "languages": {
+      "spanish": 192,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 192,
+        "pct": 3.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157020541",
+    "name": "Census Tract 205.41; Shelby County; Tennessee",
+    "total": 4291,
+    "nonEnglish": 263,
+    "nonEnglishPct": 6.1,
+    "languages": {
+      "spanish": 219,
+      "indoEuropean": 32,
+      "asian": 12,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 219,
+        "pct": 5.1
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 32,
+        "pct": 0.7
+      },
+      {
+        "lang": "asian",
+        "count": 12,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157020542",
+    "name": "Census Tract 205.42; Shelby County; Tennessee",
+    "total": 4758,
+    "nonEnglish": 454,
+    "nonEnglishPct": 9.5,
+    "languages": {
+      "spanish": 217,
+      "indoEuropean": 0,
+      "asian": 23,
+      "other": 214
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 217,
+        "pct": 4.6
+      },
+      {
+        "lang": "other",
+        "count": 214,
+        "pct": 4.5
+      },
+      {
+        "lang": "asian",
+        "count": 23,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157020543",
+    "name": "Census Tract 205.43; Shelby County; Tennessee",
+    "total": 2883,
+    "nonEnglish": 115,
+    "nonEnglishPct": 4.0,
+    "languages": {
+      "spanish": 102,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 13
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 102,
+        "pct": 3.5
+      },
+      {
+        "lang": "other",
+        "count": 13,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157020544",
+    "name": "Census Tract 205.44; Shelby County; Tennessee",
+    "total": 2536,
+    "nonEnglish": 150,
+    "nonEnglishPct": 5.9,
+    "languages": {
+      "spanish": 42,
+      "indoEuropean": 21,
+      "asian": 25,
+      "other": 62
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 62,
+        "pct": 2.4
+      },
+      {
+        "lang": "spanish",
+        "count": 42,
+        "pct": 1.7
+      },
+      {
+        "lang": "asian",
+        "count": 25,
+        "pct": 1.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157020610",
+    "name": "Census Tract 206.10; Shelby County; Tennessee",
+    "total": 4022,
+    "nonEnglish": 687,
+    "nonEnglishPct": 17.1,
+    "languages": {
+      "spanish": 393,
+      "indoEuropean": 115,
+      "asian": 126,
+      "other": 53
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 393,
+        "pct": 9.8
+      },
+      {
+        "lang": "asian",
+        "count": 126,
+        "pct": 3.1
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 115,
+        "pct": 2.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157020621",
+    "name": "Census Tract 206.21; Shelby County; Tennessee",
+    "total": 6670,
+    "nonEnglish": 1283,
+    "nonEnglishPct": 19.2,
+    "languages": {
+      "spanish": 810,
+      "indoEuropean": 291,
+      "asian": 0,
+      "other": 182
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 810,
+        "pct": 12.1
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 291,
+        "pct": 4.4
+      },
+      {
+        "lang": "other",
+        "count": 182,
+        "pct": 2.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157020622",
+    "name": "Census Tract 206.22; Shelby County; Tennessee",
+    "total": 4872,
+    "nonEnglish": 202,
+    "nonEnglishPct": 4.1,
+    "languages": {
+      "spanish": 82,
+      "indoEuropean": 68,
+      "asian": 11,
+      "other": 41
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 82,
+        "pct": 1.7
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 68,
+        "pct": 1.4
+      },
+      {
+        "lang": "other",
+        "count": 41,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157020632",
+    "name": "Census Tract 206.32; Shelby County; Tennessee",
+    "total": 4798,
+    "nonEnglish": 652,
+    "nonEnglishPct": 13.6,
+    "languages": {
+      "spanish": 171,
+      "indoEuropean": 150,
+      "asian": 183,
+      "other": 148
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 183,
+        "pct": 3.8
+      },
+      {
+        "lang": "spanish",
+        "count": 171,
+        "pct": 3.6
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 150,
+        "pct": 3.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157020633",
+    "name": "Census Tract 206.33; Shelby County; Tennessee",
+    "total": 2781,
+    "nonEnglish": 492,
+    "nonEnglishPct": 17.7,
+    "languages": {
+      "spanish": 427,
+      "indoEuropean": 22,
+      "asian": 0,
+      "other": 43
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 427,
+        "pct": 15.4
+      },
+      {
+        "lang": "other",
+        "count": 43,
+        "pct": 1.5
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 22,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157020634",
+    "name": "Census Tract 206.34; Shelby County; Tennessee",
+    "total": 2697,
+    "nonEnglish": 272,
+    "nonEnglishPct": 10.1,
+    "languages": {
+      "spanish": 31,
+      "indoEuropean": 14,
+      "asian": 227,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 227,
+        "pct": 8.4
+      },
+      {
+        "lang": "spanish",
+        "count": 31,
+        "pct": 1.1
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 14,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157020635",
+    "name": "Census Tract 206.35; Shelby County; Tennessee",
+    "total": 2583,
+    "nonEnglish": 12,
+    "nonEnglishPct": 0.5,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 12,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 12,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157020651",
+    "name": "Census Tract 206.51; Shelby County; Tennessee",
+    "total": 7080,
+    "nonEnglish": 895,
+    "nonEnglishPct": 12.6,
+    "languages": {
+      "spanish": 843,
+      "indoEuropean": 0,
+      "asian": 52,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 843,
+        "pct": 11.9
+      },
+      {
+        "lang": "asian",
+        "count": 52,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157020652",
+    "name": "Census Tract 206.52; Shelby County; Tennessee",
+    "total": 4394,
+    "nonEnglish": 328,
+    "nonEnglishPct": 7.5,
+    "languages": {
+      "spanish": 237,
+      "indoEuropean": 49,
+      "asian": 42,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 237,
+        "pct": 5.4
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 49,
+        "pct": 1.1
+      },
+      {
+        "lang": "asian",
+        "count": 42,
+        "pct": 1.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157020653",
+    "name": "Census Tract 206.53; Shelby County; Tennessee",
+    "total": 3543,
+    "nonEnglish": 149,
+    "nonEnglishPct": 4.2,
+    "languages": {
+      "spanish": 101,
+      "indoEuropean": 24,
+      "asian": 13,
+      "other": 11
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 101,
+        "pct": 2.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 24,
+        "pct": 0.7
+      },
+      {
+        "lang": "asian",
+        "count": 13,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157020654",
+    "name": "Census Tract 206.54; Shelby County; Tennessee",
+    "total": 5544,
+    "nonEnglish": 325,
+    "nonEnglishPct": 5.9,
+    "languages": {
+      "spanish": 46,
+      "indoEuropean": 43,
+      "asian": 0,
+      "other": 236
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 236,
+        "pct": 4.3
+      },
+      {
+        "lang": "spanish",
+        "count": 46,
+        "pct": 0.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 43,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157020655",
+    "name": "Census Tract 206.55; Shelby County; Tennessee",
+    "total": 3146,
+    "nonEnglish": 112,
+    "nonEnglishPct": 3.6,
+    "languages": {
+      "spanish": 25,
+      "indoEuropean": 5,
+      "asian": 82,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 82,
+        "pct": 2.6
+      },
+      {
+        "lang": "spanish",
+        "count": 25,
+        "pct": 0.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 5,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157020656",
+    "name": "Census Tract 206.56; Shelby County; Tennessee",
+    "total": 4390,
+    "nonEnglish": 482,
+    "nonEnglishPct": 11.0,
+    "languages": {
+      "spanish": 69,
+      "indoEuropean": 207,
+      "asian": 47,
+      "other": 159
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 207,
+        "pct": 4.7
+      },
+      {
+        "lang": "other",
+        "count": 159,
+        "pct": 3.6
+      },
+      {
+        "lang": "spanish",
+        "count": 69,
+        "pct": 1.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157020657",
+    "name": "Census Tract 206.57; Shelby County; Tennessee",
+    "total": 4905,
+    "nonEnglish": 410,
+    "nonEnglishPct": 8.4,
+    "languages": {
+      "spanish": 53,
+      "indoEuropean": 110,
+      "asian": 206,
+      "other": 41
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 206,
+        "pct": 4.2
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 110,
+        "pct": 2.2
+      },
+      {
+        "lang": "spanish",
+        "count": 53,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157020658",
+    "name": "Census Tract 206.58; Shelby County; Tennessee",
+    "total": 5560,
+    "nonEnglish": 465,
+    "nonEnglishPct": 8.4,
+    "languages": {
+      "spanish": 177,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 288
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 288,
+        "pct": 5.2
+      },
+      {
+        "lang": "spanish",
+        "count": 177,
+        "pct": 3.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157020700",
+    "name": "Census Tract 207; Shelby County; Tennessee",
+    "total": 2143,
+    "nonEnglish": 22,
+    "nonEnglishPct": 1.0,
+    "languages": {
+      "spanish": 8,
+      "indoEuropean": 6,
+      "asian": 8,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 8,
+        "pct": 0.4
+      },
+      {
+        "lang": "asian",
+        "count": 8,
+        "pct": 0.4
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 6,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157020833",
+    "name": "Census Tract 208.33; Shelby County; Tennessee",
+    "total": 4905,
+    "nonEnglish": 405,
+    "nonEnglishPct": 8.3,
+    "languages": {
+      "spanish": 55,
+      "indoEuropean": 113,
+      "asian": 161,
+      "other": 76
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 161,
+        "pct": 3.3
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 113,
+        "pct": 2.3
+      },
+      {
+        "lang": "other",
+        "count": 76,
+        "pct": 1.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157020834",
+    "name": "Census Tract 208.34; Shelby County; Tennessee",
+    "total": 2656,
+    "nonEnglish": 93,
+    "nonEnglishPct": 3.5,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 18,
+      "asian": 75,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 75,
+        "pct": 2.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 18,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157020835",
+    "name": "Census Tract 208.35; Shelby County; Tennessee",
+    "total": 2086,
+    "nonEnglish": 183,
+    "nonEnglishPct": 8.8,
+    "languages": {
+      "spanish": 163,
+      "indoEuropean": 20,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 163,
+        "pct": 7.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 20,
+        "pct": 1.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157020836",
+    "name": "Census Tract 208.36; Shelby County; Tennessee",
+    "total": 8119,
+    "nonEnglish": 1137,
+    "nonEnglishPct": 14.0,
+    "languages": {
+      "spanish": 386,
+      "indoEuropean": 315,
+      "asian": 247,
+      "other": 189
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 386,
+        "pct": 4.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 315,
+        "pct": 3.9
+      },
+      {
+        "lang": "asian",
+        "count": 247,
+        "pct": 3.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157020837",
+    "name": "Census Tract 208.37; Shelby County; Tennessee",
+    "total": 6722,
+    "nonEnglish": 895,
+    "nonEnglishPct": 13.3,
+    "languages": {
+      "spanish": 378,
+      "indoEuropean": 401,
+      "asian": 116,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 401,
+        "pct": 6.0
+      },
+      {
+        "lang": "spanish",
+        "count": 378,
+        "pct": 5.6
+      },
+      {
+        "lang": "asian",
+        "count": 116,
+        "pct": 1.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157020901",
+    "name": "Census Tract 209.01; Shelby County; Tennessee",
+    "total": 5574,
+    "nonEnglish": 501,
+    "nonEnglishPct": 9.0,
+    "languages": {
+      "spanish": 95,
+      "indoEuropean": 92,
+      "asian": 314,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 314,
+        "pct": 5.6
+      },
+      {
+        "lang": "spanish",
+        "count": 95,
+        "pct": 1.7
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 92,
+        "pct": 1.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157020902",
+    "name": "Census Tract 209.02; Shelby County; Tennessee",
+    "total": 7153,
+    "nonEnglish": 231,
+    "nonEnglishPct": 3.2,
+    "languages": {
+      "spanish": 30,
+      "indoEuropean": 158,
+      "asian": 43,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 158,
+        "pct": 2.2
+      },
+      {
+        "lang": "asian",
+        "count": 43,
+        "pct": 0.6
+      },
+      {
+        "lang": "spanish",
+        "count": 30,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021020",
+    "name": "Census Tract 210.20; Shelby County; Tennessee",
+    "total": 6097,
+    "nonEnglish": 861,
+    "nonEnglishPct": 14.1,
+    "languages": {
+      "spanish": 476,
+      "indoEuropean": 89,
+      "asian": 0,
+      "other": 296
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 476,
+        "pct": 7.8
+      },
+      {
+        "lang": "other",
+        "count": 296,
+        "pct": 4.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 89,
+        "pct": 1.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157021021",
+    "name": "Census Tract 210.21; Shelby County; Tennessee",
+    "total": 4813,
+    "nonEnglish": 1254,
+    "nonEnglishPct": 26.1,
+    "languages": {
+      "spanish": 268,
+      "indoEuropean": 493,
+      "asian": 493,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 493,
+        "pct": 10.2
+      },
+      {
+        "lang": "asian",
+        "count": 493,
+        "pct": 10.2
+      },
+      {
+        "lang": "spanish",
+        "count": 268,
+        "pct": 5.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157021022",
+    "name": "Census Tract 210.22; Shelby County; Tennessee",
+    "total": 5909,
+    "nonEnglish": 397,
+    "nonEnglishPct": 6.7,
+    "languages": {
+      "spanish": 363,
+      "indoEuropean": 0,
+      "asian": 34,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 363,
+        "pct": 6.1
+      },
+      {
+        "lang": "asian",
+        "count": 34,
+        "pct": 0.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157021023",
+    "name": "Census Tract 210.23; Shelby County; Tennessee",
+    "total": 6593,
+    "nonEnglish": 623,
+    "nonEnglishPct": 9.4,
+    "languages": {
+      "spanish": 99,
+      "indoEuropean": 231,
+      "asian": 293,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 293,
+        "pct": 4.4
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 231,
+        "pct": 3.5
+      },
+      {
+        "lang": "spanish",
+        "count": 99,
+        "pct": 1.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157021111",
+    "name": "Census Tract 211.11; Shelby County; Tennessee",
+    "total": 3985,
+    "nonEnglish": 1165,
+    "nonEnglishPct": 29.2,
+    "languages": {
+      "spanish": 1058,
+      "indoEuropean": 0,
+      "asian": 64,
+      "other": 43
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1058,
+        "pct": 26.5
+      },
+      {
+        "lang": "asian",
+        "count": 64,
+        "pct": 1.6
+      },
+      {
+        "lang": "other",
+        "count": 43,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021112",
+    "name": "Census Tract 211.12; Shelby County; Tennessee",
+    "total": 5410,
+    "nonEnglish": 1660,
+    "nonEnglishPct": 30.7,
+    "languages": {
+      "spanish": 1640,
+      "indoEuropean": 20,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1640,
+        "pct": 30.3
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 20,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021113",
+    "name": "Census Tract 211.13; Shelby County; Tennessee",
+    "total": 3662,
+    "nonEnglish": 442,
+    "nonEnglishPct": 12.1,
+    "languages": {
+      "spanish": 306,
+      "indoEuropean": 47,
+      "asian": 72,
+      "other": 17
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 306,
+        "pct": 8.4
+      },
+      {
+        "lang": "asian",
+        "count": 72,
+        "pct": 2.0
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 47,
+        "pct": 1.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157021121",
+    "name": "Census Tract 211.21; Shelby County; Tennessee",
+    "total": 4885,
+    "nonEnglish": 927,
+    "nonEnglishPct": 19.0,
+    "languages": {
+      "spanish": 410,
+      "indoEuropean": 46,
+      "asian": 168,
+      "other": 303
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 410,
+        "pct": 8.4
+      },
+      {
+        "lang": "other",
+        "count": 303,
+        "pct": 6.2
+      },
+      {
+        "lang": "asian",
+        "count": 168,
+        "pct": 3.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021122",
+    "name": "Census Tract 211.22; Shelby County; Tennessee",
+    "total": 5651,
+    "nonEnglish": 2017,
+    "nonEnglishPct": 35.7,
+    "languages": {
+      "spanish": 1661,
+      "indoEuropean": 50,
+      "asian": 198,
+      "other": 108
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 1661,
+        "pct": 29.4
+      },
+      {
+        "lang": "asian",
+        "count": 198,
+        "pct": 3.5
+      },
+      {
+        "lang": "other",
+        "count": 108,
+        "pct": 1.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157021124",
+    "name": "Census Tract 211.24; Shelby County; Tennessee",
+    "total": 7467,
+    "nonEnglish": 1126,
+    "nonEnglishPct": 15.1,
+    "languages": {
+      "spanish": 768,
+      "indoEuropean": 33,
+      "asian": 244,
+      "other": 81
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 768,
+        "pct": 10.3
+      },
+      {
+        "lang": "asian",
+        "count": 244,
+        "pct": 3.3
+      },
+      {
+        "lang": "other",
+        "count": 81,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021125",
+    "name": "Census Tract 211.25; Shelby County; Tennessee",
+    "total": 4062,
+    "nonEnglish": 513,
+    "nonEnglishPct": 12.6,
+    "languages": {
+      "spanish": 339,
+      "indoEuropean": 9,
+      "asian": 122,
+      "other": 43
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 339,
+        "pct": 8.3
+      },
+      {
+        "lang": "asian",
+        "count": 122,
+        "pct": 3.0
+      },
+      {
+        "lang": "other",
+        "count": 43,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021126",
+    "name": "Census Tract 211.26; Shelby County; Tennessee",
+    "total": 3516,
+    "nonEnglish": 840,
+    "nonEnglishPct": 23.9,
+    "languages": {
+      "spanish": 336,
+      "indoEuropean": 0,
+      "asian": 277,
+      "other": 227
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 336,
+        "pct": 9.6
+      },
+      {
+        "lang": "asian",
+        "count": 277,
+        "pct": 7.9
+      },
+      {
+        "lang": "other",
+        "count": 227,
+        "pct": 6.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157021135",
+    "name": "Census Tract 211.35; Shelby County; Tennessee",
+    "total": 5138,
+    "nonEnglish": 577,
+    "nonEnglishPct": 11.2,
+    "languages": {
+      "spanish": 411,
+      "indoEuropean": 0,
+      "asian": 156,
+      "other": 10
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 411,
+        "pct": 8.0
+      },
+      {
+        "lang": "asian",
+        "count": 156,
+        "pct": 3.0
+      },
+      {
+        "lang": "other",
+        "count": 10,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157021136",
+    "name": "Census Tract 211.36; Shelby County; Tennessee",
+    "total": 5281,
+    "nonEnglish": 454,
+    "nonEnglishPct": 8.6,
+    "languages": {
+      "spanish": 177,
+      "indoEuropean": 110,
+      "asian": 167,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 177,
+        "pct": 3.4
+      },
+      {
+        "lang": "asian",
+        "count": 167,
+        "pct": 3.2
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 110,
+        "pct": 2.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021138",
+    "name": "Census Tract 211.38; Shelby County; Tennessee",
+    "total": 4210,
+    "nonEnglish": 471,
+    "nonEnglishPct": 11.2,
+    "languages": {
+      "spanish": 249,
+      "indoEuropean": 28,
+      "asian": 105,
+      "other": 89
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 249,
+        "pct": 5.9
+      },
+      {
+        "lang": "asian",
+        "count": 105,
+        "pct": 2.5
+      },
+      {
+        "lang": "other",
+        "count": 89,
+        "pct": 2.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021139",
+    "name": "Census Tract 211.39; Shelby County; Tennessee",
+    "total": 4133,
+    "nonEnglish": 309,
+    "nonEnglishPct": 7.5,
+    "languages": {
+      "spanish": 86,
+      "indoEuropean": 107,
+      "asian": 116,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 116,
+        "pct": 2.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 107,
+        "pct": 2.6
+      },
+      {
+        "lang": "spanish",
+        "count": 86,
+        "pct": 2.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021140",
+    "name": "Census Tract 211.40; Shelby County; Tennessee",
+    "total": 4732,
+    "nonEnglish": 224,
+    "nonEnglishPct": 4.7,
+    "languages": {
+      "spanish": 122,
+      "indoEuropean": 37,
+      "asian": 65,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 122,
+        "pct": 2.6
+      },
+      {
+        "lang": "asian",
+        "count": 65,
+        "pct": 1.4
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 37,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157021141",
+    "name": "Census Tract 211.41; Shelby County; Tennessee",
+    "total": 7556,
+    "nonEnglish": 910,
+    "nonEnglishPct": 12.0,
+    "languages": {
+      "spanish": 530,
+      "indoEuropean": 40,
+      "asian": 114,
+      "other": 226
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 530,
+        "pct": 7.0
+      },
+      {
+        "lang": "other",
+        "count": 226,
+        "pct": 3.0
+      },
+      {
+        "lang": "asian",
+        "count": 114,
+        "pct": 1.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157021142",
+    "name": "Census Tract 211.42; Shelby County; Tennessee",
+    "total": 2888,
+    "nonEnglish": 234,
+    "nonEnglishPct": 8.1,
+    "languages": {
+      "spanish": 159,
+      "indoEuropean": 0,
+      "asian": 41,
+      "other": 34
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 159,
+        "pct": 5.5
+      },
+      {
+        "lang": "asian",
+        "count": 41,
+        "pct": 1.4
+      },
+      {
+        "lang": "other",
+        "count": 34,
+        "pct": 1.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157021143",
+    "name": "Census Tract 211.43; Shelby County; Tennessee",
+    "total": 5486,
+    "nonEnglish": 524,
+    "nonEnglishPct": 9.6,
+    "languages": {
+      "spanish": 115,
+      "indoEuropean": 123,
+      "asian": 264,
+      "other": 22
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 264,
+        "pct": 4.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 123,
+        "pct": 2.2
+      },
+      {
+        "lang": "spanish",
+        "count": 115,
+        "pct": 2.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021144",
+    "name": "Census Tract 211.44; Shelby County; Tennessee",
+    "total": 2967,
+    "nonEnglish": 456,
+    "nonEnglishPct": 15.4,
+    "languages": {
+      "spanish": 178,
+      "indoEuropean": 19,
+      "asian": 34,
+      "other": 225
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 225,
+        "pct": 7.6
+      },
+      {
+        "lang": "spanish",
+        "count": 178,
+        "pct": 6.0
+      },
+      {
+        "lang": "asian",
+        "count": 34,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021200",
+    "name": "Census Tract 212; Shelby County; Tennessee",
+    "total": 1444,
+    "nonEnglish": 208,
+    "nonEnglishPct": 14.4,
+    "languages": {
+      "spanish": 156,
+      "indoEuropean": 29,
+      "asian": 9,
+      "other": 14
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 156,
+        "pct": 10.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 29,
+        "pct": 2.0
+      },
+      {
+        "lang": "other",
+        "count": 14,
+        "pct": 1.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157021311",
+    "name": "Census Tract 213.11; Shelby County; Tennessee",
+    "total": 4257,
+    "nonEnglish": 318,
+    "nonEnglishPct": 7.5,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 265,
+      "asian": 53,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 265,
+        "pct": 6.2
+      },
+      {
+        "lang": "asian",
+        "count": 53,
+        "pct": 1.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157021312",
+    "name": "Census Tract 213.12; Shelby County; Tennessee",
+    "total": 1753,
+    "nonEnglish": 149,
+    "nonEnglishPct": 8.5,
+    "languages": {
+      "spanish": 58,
+      "indoEuropean": 73,
+      "asian": 18,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 73,
+        "pct": 4.2
+      },
+      {
+        "lang": "spanish",
+        "count": 58,
+        "pct": 3.3
+      },
+      {
+        "lang": "asian",
+        "count": 18,
+        "pct": 1.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157021320",
+    "name": "Census Tract 213.20; Shelby County; Tennessee",
+    "total": 5700,
+    "nonEnglish": 312,
+    "nonEnglishPct": 5.5,
+    "languages": {
+      "spanish": 29,
+      "indoEuropean": 74,
+      "asian": 191,
+      "other": 18
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 191,
+        "pct": 3.4
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 74,
+        "pct": 1.3
+      },
+      {
+        "lang": "spanish",
+        "count": 29,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157021331",
+    "name": "Census Tract 213.31; Shelby County; Tennessee",
+    "total": 3221,
+    "nonEnglish": 76,
+    "nonEnglishPct": 2.4,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 11,
+      "asian": 65,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 65,
+        "pct": 2.0
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 11,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157021333",
+    "name": "Census Tract 213.33; Shelby County; Tennessee",
+    "total": 4061,
+    "nonEnglish": 375,
+    "nonEnglishPct": 9.2,
+    "languages": {
+      "spanish": 226,
+      "indoEuropean": 129,
+      "asian": 20,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 226,
+        "pct": 5.6
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 129,
+        "pct": 3.2
+      },
+      {
+        "lang": "asian",
+        "count": 20,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157021334",
+    "name": "Census Tract 213.34; Shelby County; Tennessee",
+    "total": 3225,
+    "nonEnglish": 425,
+    "nonEnglishPct": 13.2,
+    "languages": {
+      "spanish": 240,
+      "indoEuropean": 18,
+      "asian": 157,
+      "other": 10
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 240,
+        "pct": 7.4
+      },
+      {
+        "lang": "asian",
+        "count": 157,
+        "pct": 4.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 18,
+        "pct": 0.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157021341",
+    "name": "Census Tract 213.41; Shelby County; Tennessee",
+    "total": 5714,
+    "nonEnglish": 614,
+    "nonEnglishPct": 10.7,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 233,
+      "asian": 154,
+      "other": 227
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 233,
+        "pct": 4.1
+      },
+      {
+        "lang": "other",
+        "count": 227,
+        "pct": 4.0
+      },
+      {
+        "lang": "asian",
+        "count": 154,
+        "pct": 2.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157021351",
+    "name": "Census Tract 213.51; Shelby County; Tennessee",
+    "total": 4006,
+    "nonEnglish": 140,
+    "nonEnglishPct": 3.5,
+    "languages": {
+      "spanish": 8,
+      "indoEuropean": 39,
+      "asian": 53,
+      "other": 40
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 53,
+        "pct": 1.3
+      },
+      {
+        "lang": "other",
+        "count": 40,
+        "pct": 1.0
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 39,
+        "pct": 1.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157021352",
+    "name": "Census Tract 213.52; Shelby County; Tennessee",
+    "total": 6770,
+    "nonEnglish": 765,
+    "nonEnglishPct": 11.3,
+    "languages": {
+      "spanish": 239,
+      "indoEuropean": 118,
+      "asian": 266,
+      "other": 142
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 266,
+        "pct": 3.9
+      },
+      {
+        "lang": "spanish",
+        "count": 239,
+        "pct": 3.5
+      },
+      {
+        "lang": "other",
+        "count": 142,
+        "pct": 2.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021354",
+    "name": "Census Tract 213.54; Shelby County; Tennessee",
+    "total": 6007,
+    "nonEnglish": 615,
+    "nonEnglishPct": 10.2,
+    "languages": {
+      "spanish": 141,
+      "indoEuropean": 238,
+      "asian": 168,
+      "other": 68
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 238,
+        "pct": 4.0
+      },
+      {
+        "lang": "asian",
+        "count": 168,
+        "pct": 2.8
+      },
+      {
+        "lang": "spanish",
+        "count": 141,
+        "pct": 2.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157021355",
+    "name": "Census Tract 213.55; Shelby County; Tennessee",
+    "total": 5625,
+    "nonEnglish": 518,
+    "nonEnglishPct": 9.2,
+    "languages": {
+      "spanish": 33,
+      "indoEuropean": 60,
+      "asian": 382,
+      "other": 43
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 382,
+        "pct": 6.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 60,
+        "pct": 1.1
+      },
+      {
+        "lang": "other",
+        "count": 43,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157021356",
+    "name": "Census Tract 213.56; Shelby County; Tennessee",
+    "total": 3341,
+    "nonEnglish": 350,
+    "nonEnglishPct": 10.5,
+    "languages": {
+      "spanish": 73,
+      "indoEuropean": 43,
+      "asian": 99,
+      "other": 135
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 135,
+        "pct": 4.0
+      },
+      {
+        "lang": "asian",
+        "count": 99,
+        "pct": 3.0
+      },
+      {
+        "lang": "spanish",
+        "count": 73,
+        "pct": 2.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157021357",
+    "name": "Census Tract 213.57; Shelby County; Tennessee",
+    "total": 5419,
+    "nonEnglish": 890,
+    "nonEnglishPct": 16.4,
+    "languages": {
+      "spanish": 146,
+      "indoEuropean": 423,
+      "asian": 231,
+      "other": 90
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 423,
+        "pct": 7.8
+      },
+      {
+        "lang": "asian",
+        "count": 231,
+        "pct": 4.3
+      },
+      {
+        "lang": "spanish",
+        "count": 146,
+        "pct": 2.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157021410",
+    "name": "Census Tract 214.10; Shelby County; Tennessee",
+    "total": 3076,
+    "nonEnglish": 274,
+    "nonEnglishPct": 8.9,
+    "languages": {
+      "spanish": 34,
+      "indoEuropean": 96,
+      "asian": 136,
+      "other": 8
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 136,
+        "pct": 4.4
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 96,
+        "pct": 3.1
+      },
+      {
+        "lang": "spanish",
+        "count": 34,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021420",
+    "name": "Census Tract 214.20; Shelby County; Tennessee",
+    "total": 3078,
+    "nonEnglish": 137,
+    "nonEnglishPct": 4.5,
+    "languages": {
+      "spanish": 35,
+      "indoEuropean": 21,
+      "asian": 74,
+      "other": 7
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 74,
+        "pct": 2.4
+      },
+      {
+        "lang": "spanish",
+        "count": 35,
+        "pct": 1.1
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 21,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157021430",
+    "name": "Census Tract 214.30; Shelby County; Tennessee",
+    "total": 3824,
+    "nonEnglish": 346,
+    "nonEnglishPct": 9.0,
+    "languages": {
+      "spanish": 82,
+      "indoEuropean": 0,
+      "asian": 195,
+      "other": 69
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 195,
+        "pct": 5.1
+      },
+      {
+        "lang": "spanish",
+        "count": 82,
+        "pct": 2.1
+      },
+      {
+        "lang": "other",
+        "count": 69,
+        "pct": 1.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157021530",
+    "name": "Census Tract 215.30; Shelby County; Tennessee",
+    "total": 5275,
+    "nonEnglish": 521,
+    "nonEnglishPct": 9.9,
+    "languages": {
+      "spanish": 57,
+      "indoEuropean": 208,
+      "asian": 256,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 256,
+        "pct": 4.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 208,
+        "pct": 3.9
+      },
+      {
+        "lang": "spanish",
+        "count": 57,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021541",
+    "name": "Census Tract 215.41; Shelby County; Tennessee",
+    "total": 7490,
+    "nonEnglish": 832,
+    "nonEnglishPct": 11.1,
+    "languages": {
+      "spanish": 14,
+      "indoEuropean": 439,
+      "asian": 342,
+      "other": 37
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 439,
+        "pct": 5.9
+      },
+      {
+        "lang": "asian",
+        "count": 342,
+        "pct": 4.6
+      },
+      {
+        "lang": "other",
+        "count": 37,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157021542",
+    "name": "Census Tract 215.42; Shelby County; Tennessee",
+    "total": 5667,
+    "nonEnglish": 705,
+    "nonEnglishPct": 12.4,
+    "languages": {
+      "spanish": 11,
+      "indoEuropean": 286,
+      "asian": 394,
+      "other": 14
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 394,
+        "pct": 7.0
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 286,
+        "pct": 5.0
+      },
+      {
+        "lang": "other",
+        "count": 14,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157021543",
+    "name": "Census Tract 215.43; Shelby County; Tennessee",
+    "total": 3383,
+    "nonEnglish": 1262,
+    "nonEnglishPct": 37.3,
+    "languages": {
+      "spanish": 95,
+      "indoEuropean": 709,
+      "asian": 437,
+      "other": 21
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 709,
+        "pct": 21.0
+      },
+      {
+        "lang": "asian",
+        "count": 437,
+        "pct": 12.9
+      },
+      {
+        "lang": "spanish",
+        "count": 95,
+        "pct": 2.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157021544",
+    "name": "Census Tract 215.44; Shelby County; Tennessee",
+    "total": 3347,
+    "nonEnglish": 1393,
+    "nonEnglishPct": 41.6,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 928,
+      "asian": 455,
+      "other": 10
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 928,
+        "pct": 27.7
+      },
+      {
+        "lang": "asian",
+        "count": 455,
+        "pct": 13.6
+      },
+      {
+        "lang": "other",
+        "count": 10,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157021545",
+    "name": "Census Tract 215.45; Shelby County; Tennessee",
+    "total": 3116,
+    "nonEnglish": 545,
+    "nonEnglishPct": 17.5,
+    "languages": {
+      "spanish": 59,
+      "indoEuropean": 196,
+      "asian": 230,
+      "other": 60
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 230,
+        "pct": 7.4
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 196,
+        "pct": 6.3
+      },
+      {
+        "lang": "other",
+        "count": 60,
+        "pct": 1.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157021546",
+    "name": "Census Tract 215.46; Shelby County; Tennessee",
+    "total": 3948,
+    "nonEnglish": 1314,
+    "nonEnglishPct": 33.3,
+    "languages": {
+      "spanish": 291,
+      "indoEuropean": 402,
+      "asian": 582,
+      "other": 39
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 582,
+        "pct": 14.7
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 402,
+        "pct": 10.2
+      },
+      {
+        "lang": "spanish",
+        "count": 291,
+        "pct": 7.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021547",
+    "name": "Census Tract 215.47; Shelby County; Tennessee",
+    "total": 6421,
+    "nonEnglish": 525,
+    "nonEnglishPct": 8.2,
+    "languages": {
+      "spanish": 54,
+      "indoEuropean": 0,
+      "asian": 184,
+      "other": 287
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 287,
+        "pct": 4.5
+      },
+      {
+        "lang": "asian",
+        "count": 184,
+        "pct": 2.9
+      },
+      {
+        "lang": "spanish",
+        "count": 54,
+        "pct": 0.8
+      }
+    ]
+  },
+  {
+    "geoid": "47157021548",
+    "name": "Census Tract 215.48; Shelby County; Tennessee",
+    "total": 3146,
+    "nonEnglish": 679,
+    "nonEnglishPct": 21.6,
+    "languages": {
+      "spanish": 465,
+      "indoEuropean": 19,
+      "asian": 77,
+      "other": 118
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 465,
+        "pct": 14.8
+      },
+      {
+        "lang": "other",
+        "count": 118,
+        "pct": 3.8
+      },
+      {
+        "lang": "asian",
+        "count": 77,
+        "pct": 2.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021611",
+    "name": "Census Tract 216.11; Shelby County; Tennessee",
+    "total": 4806,
+    "nonEnglish": 124,
+    "nonEnglishPct": 2.6,
+    "languages": {
+      "spanish": 18,
+      "indoEuropean": 42,
+      "asian": 64,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "asian",
+        "count": 64,
+        "pct": 1.3
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 42,
+        "pct": 0.9
+      },
+      {
+        "lang": "spanish",
+        "count": 18,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021612",
+    "name": "Census Tract 216.12; Shelby County; Tennessee",
+    "total": 5218,
+    "nonEnglish": 373,
+    "nonEnglishPct": 7.1,
+    "languages": {
+      "spanish": 244,
+      "indoEuropean": 115,
+      "asian": 14,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 244,
+        "pct": 4.7
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 115,
+        "pct": 2.2
+      },
+      {
+        "lang": "asian",
+        "count": 14,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157021613",
+    "name": "Census Tract 216.13; Shelby County; Tennessee",
+    "total": 4307,
+    "nonEnglish": 327,
+    "nonEnglishPct": 7.6,
+    "languages": {
+      "spanish": 26,
+      "indoEuropean": 260,
+      "asian": 41,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 260,
+        "pct": 6.0
+      },
+      {
+        "lang": "asian",
+        "count": 41,
+        "pct": 1.0
+      },
+      {
+        "lang": "spanish",
+        "count": 26,
+        "pct": 0.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157021620",
+    "name": "Census Tract 216.20; Shelby County; Tennessee",
+    "total": 3079,
+    "nonEnglish": 700,
+    "nonEnglishPct": 22.7,
+    "languages": {
+      "spanish": 436,
+      "indoEuropean": 14,
+      "asian": 35,
+      "other": 215
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 436,
+        "pct": 14.2
+      },
+      {
+        "lang": "other",
+        "count": 215,
+        "pct": 7.0
+      },
+      {
+        "lang": "asian",
+        "count": 35,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021710",
+    "name": "Census Tract 217.10; Shelby County; Tennessee",
+    "total": 1545,
+    "nonEnglish": 90,
+    "nonEnglishPct": 5.8,
+    "languages": {
+      "spanish": 22,
+      "indoEuropean": 23,
+      "asian": 0,
+      "other": 45
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 45,
+        "pct": 2.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 23,
+        "pct": 1.5
+      },
+      {
+        "lang": "spanish",
+        "count": 22,
+        "pct": 1.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021721",
+    "name": "Census Tract 217.21; Shelby County; Tennessee",
+    "total": 4294,
+    "nonEnglish": 439,
+    "nonEnglishPct": 10.2,
+    "languages": {
+      "spanish": 421,
+      "indoEuropean": 18,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 421,
+        "pct": 9.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 18,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021724",
+    "name": "Census Tract 217.24; Shelby County; Tennessee",
+    "total": 2356,
+    "nonEnglish": 291,
+    "nonEnglishPct": 12.4,
+    "languages": {
+      "spanish": 291,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 291,
+        "pct": 12.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021725",
+    "name": "Census Tract 217.25; Shelby County; Tennessee",
+    "total": 3380,
+    "nonEnglish": 616,
+    "nonEnglishPct": 18.2,
+    "languages": {
+      "spanish": 452,
+      "indoEuropean": 70,
+      "asian": 1,
+      "other": 93
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 452,
+        "pct": 13.4
+      },
+      {
+        "lang": "other",
+        "count": 93,
+        "pct": 2.8
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 70,
+        "pct": 2.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157021731",
+    "name": "Census Tract 217.31; Shelby County; Tennessee",
+    "total": 2593,
+    "nonEnglish": 973,
+    "nonEnglishPct": 37.5,
+    "languages": {
+      "spanish": 923,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 50
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 923,
+        "pct": 35.6
+      },
+      {
+        "lang": "other",
+        "count": 50,
+        "pct": 1.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157021744",
+    "name": "Census Tract 217.44; Shelby County; Tennessee",
+    "total": 6047,
+    "nonEnglish": 548,
+    "nonEnglishPct": 9.1,
+    "languages": {
+      "spanish": 517,
+      "indoEuropean": 0,
+      "asian": 31,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 517,
+        "pct": 8.5
+      },
+      {
+        "lang": "asian",
+        "count": 31,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157021745",
+    "name": "Census Tract 217.45; Shelby County; Tennessee",
+    "total": 8833,
+    "nonEnglish": 1002,
+    "nonEnglishPct": 11.3,
+    "languages": {
+      "spanish": 908,
+      "indoEuropean": 37,
+      "asian": 0,
+      "other": 57
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 908,
+        "pct": 10.3
+      },
+      {
+        "lang": "other",
+        "count": 57,
+        "pct": 0.6
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 37,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021746",
+    "name": "Census Tract 217.46; Shelby County; Tennessee",
+    "total": 3924,
+    "nonEnglish": 339,
+    "nonEnglishPct": 8.6,
+    "languages": {
+      "spanish": 306,
+      "indoEuropean": 0,
+      "asian": 27,
+      "other": 6
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 306,
+        "pct": 7.8
+      },
+      {
+        "lang": "asian",
+        "count": 27,
+        "pct": 0.7
+      },
+      {
+        "lang": "other",
+        "count": 6,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157021747",
+    "name": "Census Tract 217.47; Shelby County; Tennessee",
+    "total": 4283,
+    "nonEnglish": 360,
+    "nonEnglishPct": 8.4,
+    "languages": {
+      "spanish": 352,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 8
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 352,
+        "pct": 8.2
+      },
+      {
+        "lang": "other",
+        "count": 8,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157021751",
+    "name": "Census Tract 217.51; Shelby County; Tennessee",
+    "total": 5988,
+    "nonEnglish": 223,
+    "nonEnglishPct": 3.7,
+    "languages": {
+      "spanish": 200,
+      "indoEuropean": 0,
+      "asian": 23,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 200,
+        "pct": 3.3
+      },
+      {
+        "lang": "asian",
+        "count": 23,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157021752",
+    "name": "Census Tract 217.52; Shelby County; Tennessee",
+    "total": 5168,
+    "nonEnglish": 366,
+    "nonEnglishPct": 7.1,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 216,
+      "asian": 0,
+      "other": 150
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 216,
+        "pct": 4.2
+      },
+      {
+        "lang": "other",
+        "count": 150,
+        "pct": 2.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157021753",
+    "name": "Census Tract 217.53; Shelby County; Tennessee",
+    "total": 2756,
+    "nonEnglish": 248,
+    "nonEnglishPct": 9.0,
+    "languages": {
+      "spanish": 248,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 248,
+        "pct": 9.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157021754",
+    "name": "Census Tract 217.54; Shelby County; Tennessee",
+    "total": 4694,
+    "nonEnglish": 615,
+    "nonEnglishPct": 13.1,
+    "languages": {
+      "spanish": 607,
+      "indoEuropean": 8,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 607,
+        "pct": 12.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 8,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157021755",
+    "name": "Census Tract 217.55; Shelby County; Tennessee",
+    "total": 1367,
+    "nonEnglish": 98,
+    "nonEnglishPct": 7.2,
+    "languages": {
+      "spanish": 43,
+      "indoEuropean": 18,
+      "asian": 7,
+      "other": 30
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 43,
+        "pct": 3.1
+      },
+      {
+        "lang": "other",
+        "count": 30,
+        "pct": 2.2
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 18,
+        "pct": 1.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157021756",
+    "name": "Census Tract 217.56; Shelby County; Tennessee",
+    "total": 1565,
+    "nonEnglish": 10,
+    "nonEnglishPct": 0.6,
+    "languages": {
+      "spanish": 10,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 10,
+        "pct": 0.6
+      }
+    ]
+  },
+  {
+    "geoid": "47157021757",
+    "name": "Census Tract 217.57; Shelby County; Tennessee",
+    "total": 3056,
+    "nonEnglish": 130,
+    "nonEnglishPct": 4.3,
+    "languages": {
+      "spanish": 130,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 130,
+        "pct": 4.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157021758",
+    "name": "Census Tract 217.58; Shelby County; Tennessee",
+    "total": 2848,
+    "nonEnglish": 673,
+    "nonEnglishPct": 23.6,
+    "languages": {
+      "spanish": 560,
+      "indoEuropean": 0,
+      "asian": 14,
+      "other": 99
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 560,
+        "pct": 19.7
+      },
+      {
+        "lang": "other",
+        "count": 99,
+        "pct": 3.5
+      },
+      {
+        "lang": "asian",
+        "count": 14,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157021759",
+    "name": "Census Tract 217.59; Shelby County; Tennessee",
+    "total": 4064,
+    "nonEnglish": 324,
+    "nonEnglishPct": 8.0,
+    "languages": {
+      "spanish": 324,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 324,
+        "pct": 8.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157021760",
+    "name": "Census Tract 217.60; Shelby County; Tennessee",
+    "total": 4168,
+    "nonEnglish": 380,
+    "nonEnglishPct": 9.1,
+    "languages": {
+      "spanish": 260,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 120
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 260,
+        "pct": 6.2
+      },
+      {
+        "lang": "other",
+        "count": 120,
+        "pct": 2.9
+      }
+    ]
+  },
+  {
+    "geoid": "47157021900",
+    "name": "Census Tract 219; Shelby County; Tennessee",
+    "total": 4871,
+    "nonEnglish": 183,
+    "nonEnglishPct": 3.8,
+    "languages": {
+      "spanish": 157,
+      "indoEuropean": 26,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 157,
+        "pct": 3.2
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 26,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157022023",
+    "name": "Census Tract 220.23; Shelby County; Tennessee",
+    "total": 2533,
+    "nonEnglish": 100,
+    "nonEnglishPct": 3.9,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 62,
+      "asian": 0,
+      "other": 38
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 62,
+        "pct": 2.4
+      },
+      {
+        "lang": "other",
+        "count": 38,
+        "pct": 1.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157022024",
+    "name": "Census Tract 220.24; Shelby County; Tennessee",
+    "total": 3392,
+    "nonEnglish": 38,
+    "nonEnglishPct": 1.1,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 38
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 38,
+        "pct": 1.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157022025",
+    "name": "Census Tract 220.25; Shelby County; Tennessee",
+    "total": 3425,
+    "nonEnglish": 24,
+    "nonEnglishPct": 0.7,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 24
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 24,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157022026",
+    "name": "Census Tract 220.26; Shelby County; Tennessee",
+    "total": 1828,
+    "nonEnglish": 36,
+    "nonEnglishPct": 2.0,
+    "languages": {
+      "spanish": 8,
+      "indoEuropean": 28,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 28,
+        "pct": 1.5
+      },
+      {
+        "lang": "spanish",
+        "count": 8,
+        "pct": 0.4
+      }
+    ]
+  },
+  {
+    "geoid": "47157022111",
+    "name": "Census Tract 221.11; Shelby County; Tennessee",
+    "total": 4494,
+    "nonEnglish": 482,
+    "nonEnglishPct": 10.7,
+    "languages": {
+      "spanish": 244,
+      "indoEuropean": 14,
+      "asian": 0,
+      "other": 224
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 244,
+        "pct": 5.4
+      },
+      {
+        "lang": "other",
+        "count": 224,
+        "pct": 5.0
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 14,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157022121",
+    "name": "Census Tract 221.21; Shelby County; Tennessee",
+    "total": 4522,
+    "nonEnglish": 130,
+    "nonEnglishPct": 2.9,
+    "languages": {
+      "spanish": 100,
+      "indoEuropean": 5,
+      "asian": 0,
+      "other": 25
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 100,
+        "pct": 2.2
+      },
+      {
+        "lang": "other",
+        "count": 25,
+        "pct": 0.6
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 5,
+        "pct": 0.1
+      }
+    ]
+  },
+  {
+    "geoid": "47157022122",
+    "name": "Census Tract 221.22; Shelby County; Tennessee",
+    "total": 3699,
+    "nonEnglish": 6,
+    "nonEnglishPct": 0.2,
+    "languages": {
+      "spanish": 6,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 6,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157022130",
+    "name": "Census Tract 221.30; Shelby County; Tennessee",
+    "total": 4248,
+    "nonEnglish": 63,
+    "nonEnglishPct": 1.5,
+    "languages": {
+      "spanish": 29,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 34
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 34,
+        "pct": 0.8
+      },
+      {
+        "lang": "spanish",
+        "count": 29,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157022131",
+    "name": "Census Tract 221.31; Shelby County; Tennessee",
+    "total": 2068,
+    "nonEnglish": 267,
+    "nonEnglishPct": 12.9,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 125,
+      "asian": 0,
+      "other": 142
+    },
+    "top3": [
+      {
+        "lang": "other",
+        "count": 142,
+        "pct": 6.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 125,
+        "pct": 6.0
+      }
+    ]
+  },
+  {
+    "geoid": "47157022132",
+    "name": "Census Tract 221.32; Shelby County; Tennessee",
+    "total": 2556,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0.0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157022210",
+    "name": "Census Tract 222.10; Shelby County; Tennessee",
+    "total": 4108,
+    "nonEnglish": 51,
+    "nonEnglishPct": 1.2,
+    "languages": {
+      "spanish": 20,
+      "indoEuropean": 31,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 31,
+        "pct": 0.8
+      },
+      {
+        "lang": "spanish",
+        "count": 20,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157022220",
+    "name": "Census Tract 222.20; Shelby County; Tennessee",
+    "total": 3682,
+    "nonEnglish": 27,
+    "nonEnglishPct": 0.7,
+    "languages": {
+      "spanish": 27,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 27,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157022310",
+    "name": "Census Tract 223.10; Shelby County; Tennessee",
+    "total": 4619,
+    "nonEnglish": 24,
+    "nonEnglishPct": 0.5,
+    "languages": {
+      "spanish": 24,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 24,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157022321",
+    "name": "Census Tract 223.21; Shelby County; Tennessee",
+    "total": 3827,
+    "nonEnglish": 121,
+    "nonEnglishPct": 3.2,
+    "languages": {
+      "spanish": 121,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 121,
+        "pct": 3.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157022322",
+    "name": "Census Tract 223.22; Shelby County; Tennessee",
+    "total": 3434,
+    "nonEnglish": 58,
+    "nonEnglishPct": 1.7,
+    "languages": {
+      "spanish": 49,
+      "indoEuropean": 9,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 49,
+        "pct": 1.4
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 9,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157022330",
+    "name": "Census Tract 223.30; Shelby County; Tennessee",
+    "total": 4368,
+    "nonEnglish": 116,
+    "nonEnglishPct": 2.7,
+    "languages": {
+      "spanish": 53,
+      "indoEuropean": 33,
+      "asian": 0,
+      "other": 30
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 53,
+        "pct": 1.2
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 33,
+        "pct": 0.8
+      },
+      {
+        "lang": "other",
+        "count": 30,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157022410",
+    "name": "Census Tract 224.10; Shelby County; Tennessee",
+    "total": 5536,
+    "nonEnglish": 27,
+    "nonEnglishPct": 0.5,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 27,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "indoEuropean",
+        "count": 27,
+        "pct": 0.5
+      }
+    ]
+  },
+  {
+    "geoid": "47157022500",
+    "name": "Census Tract 225; Shelby County; Tennessee",
+    "total": 4347,
+    "nonEnglish": 375,
+    "nonEnglishPct": 8.6,
+    "languages": {
+      "spanish": 344,
+      "indoEuropean": 31,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 344,
+        "pct": 7.9
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 31,
+        "pct": 0.7
+      }
+    ]
+  },
+  {
+    "geoid": "47157022600",
+    "name": "Census Tract 226; Shelby County; Tennessee",
+    "total": 3816,
+    "nonEnglish": 889,
+    "nonEnglishPct": 23.3,
+    "languages": {
+      "spanish": 845,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 44
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 845,
+        "pct": 22.1
+      },
+      {
+        "lang": "other",
+        "count": 44,
+        "pct": 1.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157022700",
+    "name": "Census Tract 227; Shelby County; Tennessee",
+    "total": 6085,
+    "nonEnglish": 13,
+    "nonEnglishPct": 0.2,
+    "languages": {
+      "spanish": 13,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 13,
+        "pct": 0.2
+      }
+    ]
+  },
+  {
+    "geoid": "47157980100",
+    "name": "Census Tract 9801; Shelby County; Tennessee",
+    "total": 0,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157980200",
+    "name": "Census Tract 9802; Shelby County; Tennessee",
+    "total": 0,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157980300",
+    "name": "Census Tract 9803; Shelby County; Tennessee",
+    "total": 0,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "47157980401",
+    "name": "Census Tract 9804.01; Shelby County; Tennessee",
+    "total": 1747,
+    "nonEnglish": 131,
+    "nonEnglishPct": 7.5,
+    "languages": {
+      "spanish": 125,
+      "indoEuropean": 6,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 125,
+        "pct": 7.2
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 6,
+        "pct": 0.3
+      }
+    ]
+  },
+  {
+    "geoid": "47157980402",
+    "name": "Census Tract 9804.02; Shelby County; Tennessee",
+    "total": 0,
+    "nonEnglish": 0,
+    "nonEnglishPct": 0,
+    "languages": {
+      "spanish": 0,
+      "indoEuropean": 0,
+      "asian": 0,
+      "other": 0
+    },
+    "top3": []
+  },
+  {
+    "geoid": "860Z200US38133",
+    "name": "ZCTA5 38133",
+    "total": 19620,
+    "nonEnglish": 3152,
+    "nonEnglishPct": 16.1,
+    "languages": {
+      "spanish": 2162,
+      "indoEuropean": 267,
+      "asian": 482,
+      "other": 241
+    },
+    "top3": [
+      {
+        "lang": "spanish",
+        "count": 2162,
+        "pct": 11.0
+      },
+      {
+        "lang": "asian",
+        "count": 482,
+        "pct": 2.5
+      },
+      {
+        "lang": "indoEuropean",
+        "count": 267,
+        "pct": 1.4
+      }
+    ]
+  }
+]
