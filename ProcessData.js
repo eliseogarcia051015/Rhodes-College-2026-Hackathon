@@ -3,7 +3,7 @@
 import fs from "fs";
 import { parse } from "csv-parse/sync";
 
-// Read the CSV 
+// Read CSV 
 const raw = fs.readFileSync("ACSST5Y2024.S1601-Data.csv", "utf8");
 const rows = parse(raw, { 
   columns: true, 
