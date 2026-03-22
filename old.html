@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html, body {
+      height: 100%;
+      width: 100%;
+    }
+
+    header {
+      background: #1a1a2e;
+      color: white;
+      padding: 12px 20px;
+      font-size: 1.2rem;
+      font-weight: bold;
+      height: 50px;
+    }
+
+    header span { color: #58a6ff; }
+
+    .app {
+      display: flex;
+      width: 100%;
+      height: calc(100% - 50px);
+    }
+
+    .sidebar {
+      width: 200px;
+      flex-shrink: 0;
+      background: #f4f4f4;
+      border-right: 2px solid #ddd;
+      padding: 16px;
+    }
+
+    .sidebar h3 {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      color: #888;
+      margin-bottom: 8px;
+    }
+
+    select {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+
+    #map {
+      flex: 1;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header style="display:flex; justify-content:space-between; align-items:center;">
+    <div style="font-size:1.2rem; font-weight:bold;">Something<span>Map</span> - Shelby County, TN</div>
+    <div style="font-size:0.7rem; color:#8b949e;">Made by Saul Bolanos & Eliseo Garcia &nbsp;|&nbsp; 2026 Rhodes Hackathon</div>
+  </header>
+
+  <div class="app">
+    <div class="sidebar">
+      <h3>Filter by Language</h3>
+      <select id="langSelect">
+        <option value="all">All Languages</option>
+        <option value="spanish">Spanish</option>
+        <option value="vietnamese">Vietnamese</option>
+        <option value="arabic">Arabic</option>
+        <option value="chinese">Chinese</option>
+        <option value="french">French / Haitian Creole</option>
+      </select>
+      <p id="infoBox" style="margin-top:16px; font-size:0.85rem; color:#555;">
+        Select a language to explore.
+      </p>
+    </div>
+
+    <div id="map"></div>
+  </div>
+
+  <script>
+    var map = L.map('map').setView([35.1495, -90.0490], 11);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    let tractLayer = null;
+
+    // Load Shelby County zip code boundaries
+    fetch('https://raw.githubusercontent.com/OpenDataDE/State-zip-code-GeoJSON/master/tn_tennessee_zip_codes_geo.min.json')
+      .then(res => res.json())
+      .then(data => {
+        // Shelby County zip codes
+        const shelbyZips = [
+          '38002','38016','38017','38018','38028','38053','38054','38066',
+          '38101','38103','38104','38105','38106','38107','38108','38109',
+          '38111','38112','38113','38114','38115','38116','38117','38118',
+          '38119','38120','38122','38125','38126','38127','38128','38130',
+          '38131','38132','38133','38134','38135','38136','38137','38138',
+          '38139','38141','38145','38148','38150','38151','38152','38157',
+          '38161','38163','38166','38167','38168','38173','38174','38175',
+          '38177','38181','38182','38183','38184','38186','38187','38188',
+          '38190','38193','38194','38197'
+        ];
+
+        // filter to only Shelby County zips
+        const shelby = {
+          type: 'FeatureCollection',
+          features: data.features.filter(f =>
+            shelbyZips.includes(f.properties.ZCTA5CE10)
+          )
+        };
+
+        tractLayer = L.geoJSON(shelby, {
+          style: {
+            fillColor: '#cccccc',
+            fillOpacity: 0.3,
+            color: '#333',
+            weight: 1
+          },
+          onEachFeature: function(feature, layer) {
+            layer.bindPopup('<b>ZIP: ' + feature.properties.ZCTA5CE10 + '</b><br>Data coming soon');
+          }
+        }).addTo(map);
+      })
+      .catch(err => console.error('Failed to load zip GeoJSON:', err));
+
+    document.getElementById('langSelect').addEventListener('change', function() {
+      document.getElementById('infoBox').textContent =
+        this.value === 'all' ? 'Showing all languages.' : 'Showing: ' + this.options[this.selectedIndex].text;
+    });
+  </script>
+
+</body>
+</html>

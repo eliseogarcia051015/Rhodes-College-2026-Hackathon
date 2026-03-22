@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-    html, body {
+    html,
+    body {
       height: 100%;
       width: 100%;
     }
@@ -21,7 +27,9 @@
       height: 50px;
     }
 
-    header span { color: #58a6ff; }
+    header span {
+      color: #58a6ff;
+    }
 
     .app {
       display: flex;
@@ -58,26 +66,27 @@
     }
   </style>
 </head>
+
 <body>
 
   <header style="display:flex; justify-content:space-between; align-items:center;">
-    <div style="font-size:1.2rem; font-weight:bold;">Something<span>Map</span> - Shelby County, TN</div>
-    <div style="font-size:0.7rem; color:#8b949e;">Made by Saul Bolanos & Eliseo Garcia &nbsp;|&nbsp; 2026 Rhodes Hackathon</div>
+    <div style="font-size:1.2rem; font-weight:bold;">Welcome<span>Memphis</span> - Shelby County, TN</div>
+    <div style="font-size:0.7rem; color:#8b949e;">Made by Saul Bolanos & Eliseo Garcia &nbsp;|&nbsp; 2026 Rhodes
+      Hackathon</div>
   </header>
 
   <div class="app">
     <div class="sidebar">
       <h3>Filter by Language</h3>
       <select id="langSelect">
-        <option value="all">All Languages</option>
+        <option value="nonEnglishPct">All Non-English</option>
         <option value="spanish">Spanish</option>
-        <option value="vietnamese">Vietnamese</option>
-        <option value="arabic">Arabic</option>
-        <option value="chinese">Chinese</option>
-        <option value="french">French / Haitian Creole</option>
+        <option value="indoEuropean">Indo-European</option>
+        <option value="asian">Asian / Pacific</option>
+        <option value="other">Other Languages</option>
       </select>
       <p id="infoBox" style="margin-top:16px; font-size:0.85rem; color:#555;">
-        Select a language to explore.
+        Click a tract to explore.
       </p>
     </div>
 
@@ -91,51 +100,117 @@
     }).addTo(map);
 
     let tractLayer = null;
+    let censusData = {};        // keyed by GEOID e.g. "47157000100"
+    let currentField = "nonEnglishPct";
 
-    // Load Shelby County zip code boundaries
-    fetch('https://raw.githubusercontent.com/OpenDataDE/State-zip-code-GeoJSON/master/tn_tennessee_zip_codes_geo.min.json')
-      .then(res => res.json())
-      .then(data => {
-        // Shelby County zip codes
-        const shelbyZips = [
-          '38002','38016','38017','38018','38028','38053','38054','38066',
-          '38101','38103','38104','38105','38106','38107','38108','38109',
-          '38111','38112','38113','38114','38115','38116','38117','38118',
-          '38119','38120','38122','38125','38126','38127','38128','38130',
-          '38131','38132','38133','38134','38135','38136','38137','38138',
-          '38139','38141','38145','38148','38150','38151','38152','38157',
-          '38161','38163','38166','38167','38168','38173','38174','38175',
-          '38177','38181','38182','38183','38184','38186','38187','38188',
-          '38190','38193','38194','38197'
-        ];
+    // ── Color scale (light blue → dark blue) ─────────────────────────────────
+    function getColor(pct) {
+      if (pct >= 30) return "#08306b";
+      if (pct >= 15) return "#2171b5";
+      if (pct >= 5) return "#6baed6";
+      if (pct >= 1) return "#c6dbef";
+      return "#f7fbff";
+    }
 
-        // filter to only Shelby County zips
-        const shelby = {
-          type: 'FeatureCollection',
-          features: data.features.filter(f =>
-            shelbyZips.includes(f.properties.ZCTA5CE10)
-          )
-        };
+    // ── Get the right % for whichever language is selected ────────────────────
+    function getPct(tract) {
+      if (!tract) return 0; 
+      if (currentField === "nonEnglishPct") return tract.nonEnglishPct;
+      const count = tract.languages[currentField] || 0;
+      return tract.total > 0 ? +(count / tract.total * 100).toFixed(1) : 0;
+    }
 
-        tractLayer = L.geoJSON(shelby, {
-          style: {
-            fillColor: '#cccccc',
-            fillOpacity: 0.3,
-            color: '#333',
-            weight: 1
-          },
-          onEachFeature: function(feature, layer) {
-            layer.bindPopup('<b>ZIP: ' + feature.properties.ZCTA5CE10 + '</b><br>Data coming soon');
+    // ── Style each tract based on its data ────────────────────────────────────
+    function styleFeature(feature) {
+      const geoid = feature.properties.GEOID.slice(0,11);
+      const tract = censusData[geoid];
+      const pct = getPct(tract);
+      return {
+        fillColor: getColor(pct),
+        fillOpacity: tract ? 0.7 : 0.1,
+        color: "#333",
+        weight: 1,
+      };
+    }
+
+    // ── Click a tract → show info in sidebar ──────────────────────────────────
+    function onEachFeature(feature, layer) {
+      layer.on({
+        mouseover(e) {
+          e.target.setStyle({ weight: 2.5, color: "#000", fillOpacity: 0.9 });
+        },
+        mouseout(e) {
+          tractLayer.resetStyle(e.target);
+        },
+        click(e) {
+          const rawGeoid = feature.properties.GEOID;
+          const geoid = rawGeoid.slice(0, 11);  //fix mismatch
+          const tract = censusData[geoid];
+
+          if (!tract) {
+            document.getElementById("infoBox").innerHTML =
+              "<strong>" + geoid + "</strong><br>No data available.";
+            return;
           }
+
+          const fieldLabels = {
+            nonEnglishPct: "Non-English",
+            spanish: "Spanish",
+            indoEuropean: "Indo-European",
+            asian: "Asian / Pacific",
+            other: "Other languages",
+          };
+
+          const pct = getPct(tract);
+
+          let top3html = "";
+          for (const { lang, pct: p } of tract.top3) {
+            top3html += "<br>" + (fieldLabels[lang] || lang) + ": " + p + "%";
+          }
+
+          document.getElementById("infoBox").innerHTML =
+            "<strong>" + tract.name.split(";")[0] + "</strong>" +
+            "<br>Total pop (5+): " + tract.total.toLocaleString() +
+            "<br>" + fieldLabels[currentField] + ": <strong>" + pct + "%</strong>" +
+            "<br><br><strong>Top languages:</strong>" +
+            top3html;
+        },
+      });
+    }
+
+    // ── Language dropdown → recolor the map ───────────────────────────────────
+    document.getElementById("langSelect").addEventListener("change", function () {
+      currentField = this.value;
+      if (tractLayer) tractLayer.setStyle(styleFeature);
+      document.getElementById("infoBox").textContent = "Click a tract to explore.";
+    });
+
+    // ── Load data.json then fetch tract boundaries from Census API ─────────────
+    fetch("data.json")
+      .then(res => res.json())
+      .then(rows => {
+        // Index data by geoid
+        rows.forEach(r => { censusData[r.geoid] = r; });
+
+        // Fetch Shelby County tract boundaries from Census TIGER API
+        const geoURL =
+          "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2022/MapServer/8/query" +
+          "?where=STATE%3D'47'+AND+COUNTY%3D'157'" +
+          "&outFields=GEOID,NAME&f=geojson&outSR=4326";
+
+        return fetch(geoURL);
+      })
+      .then(res => res.json())
+      .then(geoData => {
+        tractLayer = L.geoJSON(geoData, {
+          style: styleFeature,
+          onEachFeature: onEachFeature,
         }).addTo(map);
       })
-      .catch(err => console.error('Failed to load zip GeoJSON:', err));
+      .catch(err => console.error("Failed to load map data:", err));
 
-    document.getElementById('langSelect').addEventListener('change', function() {
-      document.getElementById('infoBox').textContent =
-        this.value === 'all' ? 'Showing all languages.' : 'Showing: ' + this.options[this.selectedIndex].text;
-    });
   </script>
 
 </body>
+
 </html>
